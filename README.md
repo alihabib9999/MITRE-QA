@@ -11,6 +11,10 @@ The benchmark integrates information from:
 - MITRE CWE
 - NVD CVE database
 
+<p align="center">
+  <img src="Images/benchmark_overview.png" alt="MITRE-QA Benchmark Overview" width="800"/>
+</p>
+
 ## Tasks
 
 ### 1. Conceptual Understanding
@@ -45,9 +49,6 @@ Evaluates the ability of models to identify the target entity ID based on its re
 
 Evaluates the ability of models to identify the corresponding MITRE ATT&CK techniques associated with specific Sigma rules.
 
-<p align="center">
-  <img src="Images/benchmark_overview.png" alt="MITRE-QA Benchmark Overview" width="800"/>
-</p>
 
 ## Dataset
 
