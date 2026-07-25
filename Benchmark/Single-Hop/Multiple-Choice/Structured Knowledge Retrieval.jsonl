@@ -1,0 +1,500 @@
+{"question": "Which option best represents a APT reachable from G0074 in one hop?\nA) G0100  B) G0079  C) G0035  D) G0091", "correct_index": "C", "correct_id": "G0035"}
+{"question": "Which Tactic is returned from T1169 in two hops?\nA) TA0003  B) TA0043  C) TA0005  D) TA0006", "correct_index": "C", "correct_id": "TA0005"}
+{"question": "Which option can be reached from CAPEC-576 in one hop as a Adversary Technique?\nA) T1543.002  B) T1615  C) T1564.001  D) T1574.012", "correct_index": "B", "correct_id": "T1615"}
+{"question": "Pick the ATT&CK Technique reachable from M1015 in one hop.\nA) T1134.002  B) T1132.001  C) T1059.007  D) T1552.006", "correct_index": "D", "correct_id": "T1552.006"}
+{"question": "Select the ATTACK Technique obtained from T1155 in one hop.\nA) T1059.002  B) T1558.005  C) T1027  D) T1134.002", "correct_index": "A", "correct_id": "T1059.002"}
+{"question": "Which Technique is returned when analyzing G1023 in one hop?\nA) T1569.003  B) T1596.003  C) T1036.005  D) T1588.007", "correct_index": "C", "correct_id": "T1036.005"}
+{"question": "Which Weakness is returned when analyzing CWE-208 in one hop?\nA) CWE-694  B) CWE-385  C) CWE-425  D) CWE-366", "correct_index": "B", "correct_id": "CWE-385"}
+{"question": "Pick the most relevant TTP Technique reachable from T1055.001 in one hop.\nA) T1222  B) T1055  C) T1546.007  D) T1137.006", "correct_index": "B", "correct_id": "T1055"}
+{"question": "Pick the correct Technique ID reachable from C0040 in one hop.\nA) T1567  B) T1195.002  C) T1583.007  D) T1098.004", "correct_index": "C", "correct_id": "T1583.007"}
+{"question": "Identify the Tactic reachable from T1584 in one hop.\nA) TA0009  B) TA0010  C) TA0040  D) TA0042", "correct_index": "D", "correct_id": "TA0042"}
+{"question": "Identify the Attack Pattern ID discovered from CVE-2024-7800 in two hops.\nA) CAPEC-535  B) CAPEC-87  C) CAPEC-424  D) CAPEC-110", "correct_index": "D", "correct_id": "CAPEC-110"}
+{"question": "Pick the ATTACK Tactic returned from G0100 in two hops.\nA) TA0010  B) TA0040  C) TA0008  D) TA0002", "correct_index": "D", "correct_id": "TA0002"}
+{"question": "Which Technique would be reached from S0527 in one hop in a SOC investigation?\nA) T1597.001  B) T1497.001  C) T1557.002  D) T1562.011", "correct_index": "B", "correct_id": "T1497.001"}
+{"question": "Choose the Tactic Category found from T1074.001 in one hop.\nA) TA0003  B) TA0011  C) TA0009  D) TA0010", "correct_index": "C", "correct_id": "TA0009"}
+{"question": "In cyber threat intelligence, which Tactic is discovered from C0005 in three hops?\nA) TA0011  B) TA0006  C) TA0040  D) TA0001", "correct_index": "B", "correct_id": "TA0006"}
+{"question": "Choose the ATTACK Tactic returned from T1593.001 in one hop.\nA) TA0043  B) TA0006  C) TA0008  D) TA0010", "correct_index": "A", "correct_id": "TA0043"}
+{"question": "Select the Attack Pattern ID accessible from CVE-2017-9420 in two hops.\nA) CAPEC-209  B) CAPEC-273  C) CAPEC-493  D) CAPEC-397", "correct_index": "A", "correct_id": "CAPEC-209"}
+{"question": "For C0042 in one hop, which Malware Family is reachable?\nA) S0186  B) S1184  C) S1166  D) S0054", "correct_index": "C", "correct_id": "S1166"}
+{"question": "Choose the Countermeasure reachable from G0026 in one hop.\nA) T1077  B) M1054  C) T1133  D) T1495", "correct_index": "C", "correct_id": "T1133"}
+{"question": "Which TTP Technique is commonly discovered from G0076 in one hop during security analysis?\nA) T1048.003  B) T1078.003  C) T1619  D) T1547.015", "correct_index": "A", "correct_id": "T1048.003"}
+{"question": "Select the appropriate Tactic Category for S0357 in two hops.\nA) TA0005  B) TA0001  C) TA0004  D) TA0007", "correct_index": "D", "correct_id": "TA0007"}
+{"question": "Which option best represents a Course of Action reachable from S1084 in one hop?\nA) T1153  B) T1494  C) T1223  D) T1095", "correct_index": "D", "correct_id": "T1095"}
+{"question": "Which CAPEC can be identified from CWE-836 in one hop?\nA) CAPEC-511  B) CAPEC-644  C) CAPEC-16  D) CAPEC-617", "correct_index": "B", "correct_id": "CAPEC-644"}
+{"question": "Pick the ATT&CK Tactic reachable from S0552 in two hops.\nA) TA0007  B) TA0040  C) TA0010  D) TA0009", "correct_index": "A", "correct_id": "TA0007"}
+{"question": "Choose the Adversary Technique reachable from DET0879 in one hop.\nA) T1681  B) T1586.003  C) T1134.003  D) T1048.002", "correct_index": "B", "correct_id": "T1586.003"}
+{"question": "Which of the following ATTACK Tactic is reachable from G0103 in three hops?\nA) TA0010  B) TA0001  C) TA0006  D) TA0005", "correct_index": "A", "correct_id": "TA0010"}
+{"question": "Identify which Common Attack Pattern Enumeration and Classification can be reached from CAPEC-530 in one hop.\nA) CAPEC-558  B) CAPEC-10  C) CAPEC-128  D) CAPEC-531", "correct_index": "D", "correct_id": "CAPEC-531"}
+{"question": "Which Attack Pattern is discovered from CAPEC-189 in one hop?\nA) CAPEC-188  B) CAPEC-80  C) CAPEC-457  D) CAPEC-332", "correct_index": "A", "correct_id": "CAPEC-188"}
+{"question": "Select the correct ATT&CK Mitigation reachable from S0454 in one hop.\nA) T1010  B) M1022  C) T1112  D) T1095", "correct_index": "A", "correct_id": "T1010"}
+{"question": "Select the Technique reached starting from S1065 in one hop.\nA) T1074.001  B) T1027.007  C) T1497  D) T1573.001", "correct_index": "D", "correct_id": "T1573.001"}
+{"question": "Which ATT&CK Technique is obtained from DET0416 in one hop?\nA) T1589.003  B) T1071.002  C) T1601.001  D) T1036.005", "correct_index": "B", "correct_id": "T1071.002"}
+{"question": "From a security perspective, which Technique is reachable from DET0152 in one hop?\nA) T1047  B) T1558  C) T1574.004  D) T1591.003", "correct_index": "C", "correct_id": "T1574.004"}
+{"question": "Pick the correct Technique reachable from DET0046 in one hop.\nA) T1596.003  B) T1497  C) T1562.004  D) T1595.001", "correct_index": "B", "correct_id": "T1497"}
+{"question": "Select the Technique ID reachable from C0034 in one hop.\nA) T1204.003  B) T1562.011  C) T1069.002  D) T1036.004", "correct_index": "D", "correct_id": "T1036.004"}
+{"question": "According to the knowledge graph, which Technique can be reached from G0082 in one hop?\nA) T1055.001  B) T1548.003  C) T1677  D) T1204.002", "correct_index": "D", "correct_id": "T1204.002"}
+{"question": "Given DET0128 in one hop, which TTP Technique can be found?\nA) T1538  B) T1534  C) T1564.003  D) T1574.009", "correct_index": "C", "correct_id": "T1564.003"}
+{"question": "Which Tactic would be reached from S0527 in two hops in a SOC investigation?\nA) TA0042  B) TA0005  C) TA0001  D) TA0008", "correct_index": "B", "correct_id": "TA0005"}
+{"question": "Which option can be obtained from CWE-212 in one hop as a Software Weakness?\nA) CWE-466  B) CWE-201  C) CWE-708  D) CWE-1123", "correct_index": "B", "correct_id": "CWE-201"}
+{"question": "Which of the following Technique ID can be reached from G0120 in one hop?\nA) T1071.004  B) T1222  C) T1204.001  D) T1647", "correct_index": "C", "correct_id": "T1204.001"}
+{"question": "Select the Technique returned from S0527 in one hop.\nA) T1204.002  B) T1036.011  C) T1213.001  D) T1606.002", "correct_index": "A", "correct_id": "T1204.002"}
+{"question": "In the cybersecurity graph, which ATT&CK Tactic can be be identified from S1236 in two hops?\nA) TA0010  B) TA0043  C) TA0040  D) TA0005", "correct_index": "D", "correct_id": "TA0005"}
+{"question": "Select the Technique ID reached starting from DET0100 in one hop.\nA) T1098.005  B) T1011.001  C) T1592.001  D) T1055.004", "correct_index": "D", "correct_id": "T1055.004"}
+{"question": "Within the cybersecurity KG, which ATTACK Technique is accessible from T1067 in one hop?\nA) T1021.003  B) T1553.003  C) T1555.003  D) T1542.003", "correct_index": "D", "correct_id": "T1542.003"}
+{"question": "Choose the ATTACK Technique identified from T1192 in one hop.\nA) T1087.004  B) T1555.006  C) T1566.002  D) T1070.009", "correct_index": "C", "correct_id": "T1566.002"}
+{"question": "Pick the ATT&CK Tactic discovered from C0057 in two hops.\nA) TA0010  B) TA0006  C) TA0002  D) TA0042", "correct_index": "C", "correct_id": "TA0002"}
+{"question": "Pick the TTP Technique returned from T1563.002 in one hop.\nA) T1484.001  B) T1667  C) T1563  D) T1606.002", "correct_index": "C", "correct_id": "T1563"}
+{"question": "Choose the correct TTP Technique reachable from DET0854 in one hop.\nA) T1519  B) T1556.003  C) T1585.001  D) T1584.003", "correct_index": "D", "correct_id": "T1584.003"}
+{"question": "Pick the Offensive Tool discovered from C0017 in one hop.\nA) S0005  B) S0361  C) S0105  D) S1091", "correct_index": "C", "correct_id": "S0105"}
+{"question": "From a security perspective, which Technique is reachable from CAPEC-94 in one hop?\nA) T1020.001  B) T1055.003  C) T1053.004  D) T1557", "correct_index": "D", "correct_id": "T1557"}
+{"question": "In a threat analysis context, which Adversary Technique can be found from T1591.002 in one hop?\nA) T1496.002  B) T1070.001  C) T1011.001  D) T1591", "correct_index": "D", "correct_id": "T1591"}
+{"question": "Select the Course of Action identified from S0103 in one hop.\nA) T1016  B) T1033  C) T1060  D) T1117", "correct_index": "A", "correct_id": "T1016"}
+{"question": "Which of the following Weakness can be identified from CVE-2022-45756 in one hop?\nA) CWE-1103  B) CWE-79  C) CWE-772  D) CWE-1055", "correct_index": "B", "correct_id": "CWE-79"}
+{"question": "Which option best represents a ATT&CK Tactic reachable from M1049 in two hops?\nA) TA0008  B) TA0042  C) TA0007  D) TA0001", "correct_index": "D", "correct_id": "TA0001"}
+{"question": "Select the ATTACK Technique identified from C0018 in one hop.\nA) T1574.001  B) T1218.003  C) T1027.010  D) T1059.013", "correct_index": "C", "correct_id": "T1027.010"}
+{"question": "Which TTP Technique would be reached from S1131 in one hop in a SOC investigation?\nA) T1497.002  B) T1053.007  C) T1593.002  D) T1552", "correct_index": "D", "correct_id": "T1552"}
+{"question": "From a security perspective, which ATT&CK Technique is reachable from DET0149 in one hop?\nA) T1027.005  B) T1048.003  C) T1037.004  D) T1584.007", "correct_index": "B", "correct_id": "T1048.003"}
+{"question": "Select the ATTACK Tactic found from T1135 in one hop.\nA) TA0002  B) TA0007  C) TA0001  D) TA0006", "correct_index": "B", "correct_id": "TA0007"}
+{"question": "Within the graph, which Adversary Technique is found from M1055 in one hop?\nA) T1055.012  B) T1480.002  C) T1543.003  D) T1222.002", "correct_index": "B", "correct_id": "T1480.002"}
+{"question": "Identify the Mitigation accessible from S0097 in one hop.\nA) T1145  B) T1158  C) T1018  D) T1091", "correct_index": "C", "correct_id": "T1018"}
+{"question": "Which of the following Tactic Category is reachable from S0508 in two hops?\nA) TA0040  B) TA0003  C) TA0011  D) TA0009", "correct_index": "C", "correct_id": "TA0011"}
+{"question": "In the cybersecurity graph, which Tactic can be be identified from T1187 in one hop?\nA) TA0006  B) TA0042  C) TA0008  D) TA0010", "correct_index": "A", "correct_id": "TA0006"}
+{"question": "Choose the most suitable ATTACK Tactic reachable from DET0308 in two hops.\nA) TA0011  B) TA0010  C) TA0005  D) TA0007", "correct_index": "C", "correct_id": "TA0005"}
+{"question": "Which Tactic can be identified from T1097 in one hop?\nA) TA0009  B) TA0042  C) TA0002  D) TA0008", "correct_index": "D", "correct_id": "TA0008"}
+{"question": "Select the Tactical Objective found from T1525 in one hop.\nA) TA0040  B) TA0003  C) TA0002  D) TA0004", "correct_index": "B", "correct_id": "TA0003"}
+{"question": "Identify the appropriate Actor for C0047 in one hop.\nA) G1050  B) G0139  C) G0129  D) G0049", "correct_index": "C", "correct_id": "G0129"}
+{"question": "Choose the most suitable ATTACK Mitigation reachable from S0696 in one hop.\nA) T1006  B) M1021  C) T1058  D) T1049", "correct_index": "D", "correct_id": "T1049"}
+{"question": "Pick the ATTACK Tactic reachable from T1574.014 in one hop.\nA) TA0008  B) TA0043  C) TA0006  D) TA0004", "correct_index": "D", "correct_id": "TA0004"}
+{"question": "Which ATTACK Tactic is discovered from T1591.003 in one hop?\nA) TA0043  B) TA0004  C) TA0007  D) TA0011", "correct_index": "A", "correct_id": "TA0043"}
+{"question": "Pick the Tactic reachable from C0005 in two hops.\nA) TA0005  B) TA0040  C) TA0004  D) TA0010", "correct_index": "A", "correct_id": "TA0005"}
+{"question": "Choose the Defensive Measure found from C0029 in three hops.\nA) M1039  B) T1177  C) T1058  D) T1132", "correct_index": "D", "correct_id": "T1132"}
+{"question": "Beginning at C0001 in one hop, which Countermeasure can be identified?\nA) T1112  B) T1020  C) T1061  D) T1008", "correct_index": "B", "correct_id": "T1020"}
+{"question": "In the knowledge representation, which ATTACK Tactic can be obtained from G1021 in three hops?\nA) TA0009  B) TA0002  C) TA0003  D) TA0008", "correct_index": "A", "correct_id": "TA0009"}
+{"question": "Select the ATTACK Tactic discovered from T1157 in one hop.\nA) TA0004  B) TA0002  C) TA0005  D) TA0008", "correct_index": "A", "correct_id": "TA0004"}
+{"question": "Pick the Technique ID discovered from G0073 in one hop.\nA) T1596  B) T1059.001  C) T1218.013  D) T1564.004", "correct_index": "B", "correct_id": "T1059.001"}
+{"question": "Pick the ATT&CK Tactic accessible from S0488 in two hops.\nA) TA0042  B) TA0010  C) TA0011  D) TA0007", "correct_index": "D", "correct_id": "TA0007"}
+{"question": "Pick the appropriate Technique for C0042 in two hops.\nA) T1001.001  B) T1003.004  C) T1586  D) T1593.001", "correct_index": "B", "correct_id": "T1003.004"}
+{"question": "For DET0137 in one hop, which Technique ID is reachable?\nA) T1562.008  B) T1561  C) T1599.001  D) T1547.006", "correct_index": "B", "correct_id": "T1561"}
+{"question": "Which Countermeasure can be reached from S0083 in one hop?\nA) T1107  B) T1179  C) T1005  D) T1085", "correct_index": "C", "correct_id": "T1005"}
+{"question": "From the graph perspective, which Tactical Objective is reachable from T1221 in one hop?\nA) TA0009  B) TA0005  C) TA0008  D) TA0002", "correct_index": "B", "correct_id": "TA0005"}
+{"question": "During investigation, which Attack Pattern ID can be identified from CAPEC-278 in one hop?\nA) CAPEC-492  B) CAPEC-272  C) CAPEC-667  D) CAPEC-129", "correct_index": "B", "correct_id": "CAPEC-272"}
+{"question": "Identify the TTP Technique reachable from G1051 in one hop.\nA) T1069.002  B) T1003.006  C) T1552.002  D) T1087.003", "correct_index": "A", "correct_id": "T1069.002"}
+{"question": "Choose the Defensive Measure found from C0029 in one hop.\nA) M1055  B) T1045  C) T1058  D) T1082", "correct_index": "D", "correct_id": "T1082"}
+{"question": "Select the correct Tactical Objective reachable from C0059 in two hops.\nA) TA0008  B) TA0006  C) TA0040  D) TA0010", "correct_index": "D", "correct_id": "TA0010"}
+{"question": "Which option can be obtained from CAPEC-401 in one hop as a CAPEC?\nA) CAPEC-398  B) CAPEC-89  C) CAPEC-565  D) CAPEC-440", "correct_index": "D", "correct_id": "CAPEC-440"}
+{"question": "Which Tactical Objective would be reached from S1131 in two hops in a SOC investigation?\nA) TA0042  B) TA0004  C) TA0007  D) TA0009", "correct_index": "D", "correct_id": "TA0009"}
+{"question": "Identify the correct TTP Technique reachable from G0055 in two hops.\nA) T1608.003  B) T1102.003  C) T1543.003  D) T1564.007", "correct_index": "C", "correct_id": "T1543.003"}
+{"question": "Select the Tactical Objective found from T1078 in one hop.\nA) TA0005  B) TA0042  C) TA0008  D) TA0010", "correct_index": "A", "correct_id": "TA0005"}
+{"question": "Pick the ATT&CK Technique accessible from DET0848 in one hop.\nA) T1059.009  B) T1546.006  C) T1588.004  D) T1036.012", "correct_index": "C", "correct_id": "T1588.004"}
+{"question": "Pick the ATT&CK Tactic returned from C0032 in two hops.\nA) TA0040  B) TA0010  C) TA0042  D) TA0007", "correct_index": "C", "correct_id": "TA0042"}
+{"question": "Which option corresponds to a ATT&CK Tactic discovered from T1546.011 in one hop?\nA) TA0005  B) TA0040  C) TA0011  D) TA0004", "correct_index": "D", "correct_id": "TA0004"}
+{"question": "Starting from G0090 in one hop, which Adversary Technique can be reached?\nA) T1571  B) T1674  C) T1056  D) T1536", "correct_index": "A", "correct_id": "T1571"}
+{"question": "In the knowledge representation, which Technique ID can be obtained from G1015 in one hop?\nA) T1561  B) T1070.010  C) T1556.006  D) T1055.001", "correct_index": "C", "correct_id": "T1556.006"}
+{"question": "In the knowledge graph, which Attack Pattern is reachable from CAPEC-50 in one hop?\nA) CAPEC-200  B) CAPEC-469  C) CAPEC-326  D) CAPEC-600", "correct_index": "D", "correct_id": "CAPEC-600"}
+{"question": "Which Software Weakness is returned when analyzing CVE-2024-43233 in one hop?\nA) CWE-253  B) CWE-79  C) CWE-276  D) CWE-360", "correct_index": "B", "correct_id": "CWE-79"}
+{"question": "Select the appropriate Tactical Objective for T1134.003 in one hop.\nA) TA0004  B) TA0003  C) TA0002  D) TA0001", "correct_index": "A", "correct_id": "TA0004"}
+{"question": "Within the graph, which Technique ID is found from DET0024 in one hop?\nA) T1558.005  B) T1137  C) T1584.003  D) T1074.001", "correct_index": "A", "correct_id": "T1558.005"}
+{"question": "Pick the most relevant Technique ID reachable from T1562.011 in one hop.\nA) T1562  B) T1021.003  C) T1021.004  D) T1591.001", "correct_index": "A", "correct_id": "T1562"}
+{"question": "Identify the Mitigation obtained from C0014 in two hops.\nA) T1097  B) T1105  C) T1069  D) T1005", "correct_index": "C", "correct_id": "T1069"}
+{"question": "According to the knowledge graph, which Tactic Category can be reached from S0457 in two hops?\nA) TA0042  B) TA0006  C) TA0011  D) TA0001", "correct_index": "C", "correct_id": "TA0011"}
+{"question": "Based on the graph, which ATT&CK Mitigation is returned from S0096 in one hop?\nA) T1184  B) T1195  C) T1082  D) T1077", "correct_index": "C", "correct_id": "T1082"}
+{"question": "Which ATTACK Mitigation is accessible from T1219.001 in one hop?\nA) T1219  B) T1038  C) T1500  D) T1043", "correct_index": "A", "correct_id": "T1219"}
+{"question": "Which TTP Technique can be reached from G0099 in two hops?\nA) T1070.004  B) T1218.012  C) T1590.002  D) T1213.002", "correct_index": "A", "correct_id": "T1070.004"}
+{"question": "Within the cybersecurity KG, which Adversary Technique is accessible from T1147 in one hop?\nA) T1559  B) T1597  C) T1564.002  D) T1098.004", "correct_index": "C", "correct_id": "T1564.002"}
+{"question": "Choose the Tactic Category obtained from DET0564 in two hops.\nA) TA0002  B) TA0043  C) TA0042  D) TA0005", "correct_index": "D", "correct_id": "TA0005"}
+{"question": "Starting with CVE-2022-47499 in one hop, which Common Weakness Enumeration is discovered?\nA) CWE-475  B) CWE-1073  C) CWE-120  D) CWE-1284", "correct_index": "C", "correct_id": "CWE-120"}
+{"question": "Identify the correct ATTACK Technique reachable from G0003 in one hop.\nA) T1596.003  B) T1558  C) T1588.005  D) T1587.001", "correct_index": "D", "correct_id": "T1587.001"}
+{"question": "Which CAPEC is discovered from CWE-301 in one hop?\nA) CAPEC-586  B) CAPEC-272  C) CAPEC-581  D) CAPEC-90", "correct_index": "D", "correct_id": "CAPEC-90"}
+{"question": "Which option can be obtained from S1040 in two hops as a Tactic?\nA) TA0004  B) TA0001  C) TA0043  D) TA0007", "correct_index": "D", "correct_id": "TA0007"}
+{"question": "Pick the Adversary Technique accessible from M1042 in one hop.\nA) T1102.002  B) T1543.001  C) T1546.001  D) T1021.006", "correct_index": "D", "correct_id": "T1021.006"}
+{"question": "For S0157 in one hop, which ATT&CK Technique is reachable?\nA) T1546.006  B) T1070.010  C) T1059.001  D) T1071.004", "correct_index": "D", "correct_id": "T1071.004"}
+{"question": "Select the Technique ID returned from DET0050 in one hop.\nA) T1568  B) T1053.006  C) T1137.006  D) T1558.003", "correct_index": "C", "correct_id": "T1137.006"}
+{"question": "With respect to CAPEC-576 in two hops, which ATTACK Tactic can be reached?\nA) TA0001  B) TA0010  C) TA0042  D) TA0007", "correct_index": "D", "correct_id": "TA0007"}
+{"question": "According to the graph, which Technique is discovered from C0043 in one hop?\nA) T1599  B) T1588.005  C) T1547.004  D) T1036.001", "correct_index": "A", "correct_id": "T1599"}
+{"question": "Identify the ATT&CK Technique discovered from CAPEC-38 in one hop.\nA) T1566  B) T1574.009  C) T1048.001  D) T1566.001", "correct_index": "B", "correct_id": "T1574.009"}
+{"question": "Considering G0122 in one hop, which Technique ID is reachable?\nA) T1548.002  B) T1583.001  C) T1499.001  D) T1590", "correct_index": "B", "correct_id": "T1583.001"}
+{"question": "Pick the ATTACK Tactic reachable from C0007 in three hops.\nA) TA0042  B) TA0040  C) TA0005  D) TA0007", "correct_index": "C", "correct_id": "TA0005"}
+{"question": "Choose the ATT&CK Tactic reachable from S0251 in two hops.\nA) TA0042  B) TA0001  C) TA0008  D) TA0009", "correct_index": "D", "correct_id": "TA0009"}
+{"question": "Pick the Technique ID obtained from T1494 in one hop.\nA) T1543  B) T1565.003  C) T1053.002  D) T1205.002", "correct_index": "B", "correct_id": "T1565.003"}
+{"question": "Pick the appropriate ATT&CK Technique for G0090 in one hop.\nA) T1578.001  B) T1584  C) T1071.001  D) T1078.003", "correct_index": "C", "correct_id": "T1071.001"}
+{"question": "Choose the TTP Technique accessible from DET0842 in one hop.\nA) T1584.002  B) T1588.007  C) T1600  D) T1562.009", "correct_index": "B", "correct_id": "T1588.007"}
+{"question": "Based on T1556.009 in one hop, which Tactic Category can be reached?\nA) TA0042  B) TA0003  C) TA0001  D) TA0004", "correct_index": "B", "correct_id": "TA0003"}
+{"question": "Select the Technique reachable from S0370 in one hop.\nA) T1070.004  B) T1491.002  C) T1070.006  D) T1562.012", "correct_index": "A", "correct_id": "T1070.004"}
+{"question": "Pick the appropriate Technique for C0042 in three hops.\nA) T1055.001  B) T1003.006  C) T1600.002  D) T1218.010", "correct_index": "B", "correct_id": "T1003.006"}
+{"question": "In a threat analysis context, which CAPEC can be found from CWE-112 in one hop?\nA) CAPEC-324  B) CAPEC-230  C) CAPEC-458  D) CAPEC-43", "correct_index": "B", "correct_id": "CAPEC-230"}
+{"question": "Pick the CAPEC obtained from CAPEC-322 in one hop.\nA) CAPEC-661  B) CAPEC-219  C) CAPEC-312  D) CAPEC-276", "correct_index": "C", "correct_id": "CAPEC-312"}
+{"question": "Identify the Tactical Objective returned from C0005 in two hops.\nA) TA0007  B) TA0006  C) TA0043  D) TA0003", "correct_index": "A", "correct_id": "TA0007"}
+{"question": "According to the knowledge graph, which Attack Pattern ID can be reached from CWE-1037 in one hop?\nA) CAPEC-535  B) CAPEC-663  C) CAPEC-178  D) CAPEC-183", "correct_index": "B", "correct_id": "CAPEC-663"}
+{"question": "Based on the graph, which Tactic Category is returned from T1137 in one hop?\nA) TA0007  B) TA0003  C) TA0040  D) TA0001", "correct_index": "B", "correct_id": "TA0003"}
+{"question": "Choose the appropriate Attack Pattern for CAPEC-120 in one hop.\nA) CAPEC-538  B) CAPEC-678  C) CAPEC-267  D) CAPEC-539", "correct_index": "C", "correct_id": "CAPEC-267"}
+{"question": "Which Attack Pattern is returned from CAPEC-12 in one hop?\nA) CAPEC-701  B) CAPEC-216  C) CAPEC-248  D) CAPEC-536", "correct_index": "B", "correct_id": "CAPEC-216"}
+{"question": "Which Technique ID can be found from S0635 in one hop?\nA) T1087.002  B) T1574.014  C) T1001.001  D) T1218.009", "correct_index": "A", "correct_id": "T1087.002"}
+{"question": "Choose the ATTACK Technique discovered from C0053 in one hop.\nA) T1583.003  B) T1574.007  C) T1027.013  D) T1098", "correct_index": "A", "correct_id": "T1583.003"}
+{"question": "Which option represents a Attack Pattern reachable from CAPEC-589 in one hop?\nA) CAPEC-113  B) CAPEC-495  C) CAPEC-603  D) CAPEC-589", "correct_index": "C", "correct_id": "CAPEC-603"}
+{"question": "During investigation, which Mitigation can be identified from G0121 in three hops?\nA) T1031  B) M1034  C) T1223  D) T1003", "correct_index": "D", "correct_id": "T1003"}
+{"question": "Given S0553 in one hop, which Course of Action can be found?\nA) T1125  B) T1052  C) T1105  D) T1151", "correct_index": "C", "correct_id": "T1105"}
+{"question": "Pick the Tactical Objective returned from T1126 in one hop.\nA) TA0008  B) TA0002  C) TA0005  D) TA0043", "correct_index": "C", "correct_id": "TA0005"}
+{"question": "Identify the Tactical Objective obtained from T1013 in one hop.\nA) TA0007  B) TA0003  C) TA0043  D) TA0001", "correct_index": "B", "correct_id": "TA0003"}
+{"question": "Pick the Mitigation discovered from DET0112 in one hop.\nA) T1123  B) T1037  C) M1034  D) T1053", "correct_index": "B", "correct_id": "T1037"}
+{"question": "Identify the ATT&CK Technique reachable from C0014 in two hops.\nA) T1588.005  B) T1059.011  C) T1137.006  D) T1574.007", "correct_index": "D", "correct_id": "T1574.007"}
+{"question": "From the graph perspective, which Tactical Objective is reachable from G0021 in three hops?\nA) TA0004  B) TA0009  C) TA0005  D) TA0007", "correct_index": "B", "correct_id": "TA0009"}
+{"question": "Which TTP Technique is typically reached from DET0137 in one hop?\nA) T1499.004  B) T1561  C) T1573.002  D) T1218.002", "correct_index": "B", "correct_id": "T1561"}
+{"question": "Starting with CAPEC-516 in two hops, which Tactical Objective is discovered?\nA) TA0010  B) TA0043  C) TA0002  D) TA0001", "correct_index": "D", "correct_id": "TA0001"}
+{"question": "Which Common Attack Pattern Enumeration and Classification is discovered from CAPEC-614 in one hop?\nA) CAPEC-43  B) CAPEC-584  C) CAPEC-646  D) CAPEC-186", "correct_index": "D", "correct_id": "CAPEC-186"}
+{"question": "Which Course of Action can be reached from C0035 in one hop?\nA) T1168  B) M1036  C) M1041  D) T1016", "correct_index": "D", "correct_id": "T1016"}
+{"question": "Pick the Mitigation identified from S0556 in one hop.\nA) T1489  B) T1069  C) T1174  D) T1128", "correct_index": "A", "correct_id": "T1489"}
+{"question": "Which of the following ATTACK Tactic can be identified from T1564.012 in one hop?\nA) TA0004  B) TA0005  C) TA0002  D) TA0003", "correct_index": "B", "correct_id": "TA0005"}
+{"question": "Pick the ATT&CK Tactic reachable from DET0821 in two hops.\nA) TA0009  B) TA0043  C) TA0001  D) TA0004", "correct_index": "B", "correct_id": "TA0043"}
+{"question": "Choose the Common Attack Pattern Enumeration and Classification accessible from CWE-319 in one hop.\nA) CAPEC-125  B) CAPEC-222  C) CAPEC-108  D) CAPEC-383", "correct_index": "D", "correct_id": "CAPEC-383"}
+{"question": "Choose the Defensive Measure discovered from T1037.005 in one hop.\nA) T1085  B) M1036  C) T1116  D) T1037", "correct_index": "D", "correct_id": "T1037"}
+{"question": "Select the Mitigation obtained from G0005 in three hops.\nA) T1176  B) T1132  C) T1133  D) T1216", "correct_index": "B", "correct_id": "T1132"}
+{"question": "Pick the Tactic Category accessible from T1547.014 in one hop.\nA) TA0004  B) TA0042  C) TA0009  D) TA0008", "correct_index": "A", "correct_id": "TA0004"}
+{"question": "Which option represents a Attack Pattern reachable from CWE-294 in one hop?\nA) CAPEC-102  B) CAPEC-78  C) CAPEC-670  D) CAPEC-63", "correct_index": "A", "correct_id": "CAPEC-102"}
+{"question": "Which option can be obtained from C0046 in two hops as a ATT&CK Tactic?\nA) TA0040  B) TA0010  C) TA0008  D) TA0043", "correct_index": "B", "correct_id": "TA0010"}
+{"question": "Select the Technique reachable from G1053 in one hop.\nA) T1059.004  B) T1036.012  C) T1543.002  D) T1484.002", "correct_index": "D", "correct_id": "T1484.002"}
+{"question": "Choose the TTP Technique identified from G1011 in one hop.\nA) T1027.001  B) T1566.003  C) T1609  D) T1003.007", "correct_index": "B", "correct_id": "T1566.003"}
+{"question": "Select the ATT&CK Tactic discovered from C0033 in three hops.\nA) TA0040  B) TA0008  C) TA0003  D) TA0006", "correct_index": "C", "correct_id": "TA0003"}
+{"question": "From a security perspective, which Adversary Technique is reachable from T1585.003 in one hop?\nA) T1137.006  B) T1071.003  C) T1585  D) T1087.003", "correct_index": "C", "correct_id": "T1585"}
+{"question": "From the starting node CVE-2020-36034 in one hop, which Common Weakness Enumeration is accessible?\nA) CWE-312  B) CWE-208  C) CWE-89  D) CWE-1049", "correct_index": "C", "correct_id": "CWE-89"}
+{"question": "Identify the ATT&CK Tactic discovered from CAPEC-38 in two hops.\nA) TA0005  B) TA0040  C) TA0006  D) TA0001", "correct_index": "A", "correct_id": "TA0005"}
+{"question": "Which option can be obtained from T1074.001 in one hop as a ATT&CK Mitigation?\nA) T1074  B) T1178  C) T1086  D) T1139", "correct_index": "A", "correct_id": "T1074"}
+{"question": "In cyber threat intelligence, which TTP Technique is discovered from T1141 in one hop?\nA) T1601.001  B) T1056  C) T1564.010  D) T1056.002", "correct_index": "D", "correct_id": "T1056.002"}
+{"question": "Pick the Tactic Category found from T1059.013 in one hop.\nA) TA0003  B) TA0010  C) TA0002  D) TA0005", "correct_index": "C", "correct_id": "TA0002"}
+{"question": "Identify the ATTACK Tactic returned from T1556.006 in one hop.\nA) TA0004  B) TA0001  C) TA0003  D) TA0040", "correct_index": "C", "correct_id": "TA0003"}
+{"question": "During investigation, which Mitigation can be identified from S0465 in one hop?\nA) M1052  B) T1105  C) T1120  D) T1154", "correct_index": "B", "correct_id": "T1105"}
+{"question": "Select the Countermeasure discovered from S0649 in one hop.\nA) T1175  B) T1183  C) T1112  D) M1020", "correct_index": "C", "correct_id": "T1112"}
+{"question": "For CAPEC-92 in one hop, which Security Weakness is reachable?\nA) CWE-243  B) CWE-120  C) CWE-222  D) CWE-212", "correct_index": "B", "correct_id": "CWE-120"}
+{"question": "Which ATTACK Tactic is returned from T1002 in one hop?\nA) TA0043  B) TA0001  C) TA0007  D) TA0010", "correct_index": "D", "correct_id": "TA0010"}
+{"question": "Pick the CWE returned from CVE-2024-42341 in one hop.\nA) CWE-645  B) CWE-835  C) CWE-601  D) CWE-1070", "correct_index": "C", "correct_id": "CWE-601"}
+{"question": "Which of the following ATTACK Mitigation can be identified from G0021 in two hops?\nA) T1155  B) T1139  C) T1102  D) T1132", "correct_index": "C", "correct_id": "T1102"}
+{"question": "Select the Tactic reachable from S0232 in two hops.\nA) TA0042  B) TA0011  C) TA0007  D) TA0006", "correct_index": "D", "correct_id": "TA0006"}
+{"question": "Select the CWE found from CAPEC-495 in one hop.\nA) CWE-448  B) CWE-770  C) CWE-586  D) CWE-807", "correct_index": "B", "correct_id": "CWE-770"}
+{"question": "During investigation, which Course of Action can be identified from S0194 in one hop?\nA) M1028  B) T1123  C) M1045  D) T1080", "correct_index": "B", "correct_id": "T1123"}
+{"question": "Select the ATT&CK Technique found from G0022 in two hops.\nA) T1021.002  B) T1027  C) T1555.001  D) T1027.014", "correct_index": "C", "correct_id": "T1555.001"}
+{"question": "Identify the Adversary Technique found from C0024 in one hop.\nA) T1561.001  B) T1218.011  C) T1668  D) T1546.001", "correct_index": "B", "correct_id": "T1218.011"}
+{"question": "Identify the Software Weakness returned from CWE-1339 in one hop.\nA) CWE-190  B) CWE-1055  C) CWE-294  D) CWE-501", "correct_index": "A", "correct_id": "CWE-190"}
+{"question": "Which option is a valid Adversary Technique found from C0040 in one hop?\nA) T1584.004  B) T1561  C) T1506  D) T1505.003", "correct_index": "D", "correct_id": "T1505.003"}
+{"question": "Which Attack Pattern is accessible from CAPEC-540 in one hop?\nA) CAPEC-188  B) CAPEC-321  C) CAPEC-61  D) CAPEC-123", "correct_index": "D", "correct_id": "CAPEC-123"}
+{"question": "Which of the following Malware can be identified from G0021 in one hop?\nA) S0457  B) S0627  C) S0012  D) S0256", "correct_index": "C", "correct_id": "S0012"}
+{"question": "Which option corresponds to a ATT&CK Tactic discovered from DET0215 in two hops?\nA) TA0003  B) TA0009  C) TA0004  D) TA0040", "correct_index": "D", "correct_id": "TA0040"}
+{"question": "For CWE-552 in three hops, which Tactical Objective is reachable?\nA) TA0040  B) TA0009  C) TA0042  D) TA0002", "correct_index": "B", "correct_id": "TA0009"}
+{"question": "Using CVE-2022-0318 as the starting point in one hop, which Security Weakness is returned?\nA) CWE-449  B) CWE-410  C) CWE-366  D) CWE-787", "correct_index": "D", "correct_id": "CWE-787"}
+{"question": "Which of the following ATTACK Mitigation can be reached from DET0524 in one hop?\nA) T1206  B) M1044  C) T1205  D) T1178", "correct_index": "C", "correct_id": "T1205"}
+{"question": "Identify which Technique can be reached from DET0056 in one hop.\nA) T1679  B) T1137.002  C) T1553.004  D) T1552.008", "correct_index": "C", "correct_id": "T1553.004"}
+{"question": "Which Countermeasure can be obtained from C0058 in three hops?\nA) T1134  B) T1110  C) T1126  D) T1169", "correct_index": "A", "correct_id": "T1134"}
+{"question": "Identify the ATT&CK Tactic reachable from C0043 in two hops.\nA) TA0002  B) TA0008  C) TA0007  D) TA0011", "correct_index": "D", "correct_id": "TA0011"}
+{"question": "Pick the most relevant Adversary Technique reachable from S0357 in one hop.\nA) T1556.009  B) T1555.001  C) T1003.004  D) T1497.002", "correct_index": "C", "correct_id": "T1003.004"}
+{"question": "Choose the Defensive Measure accessible from G1003 in one hop.\nA) T1131  B) T1197  C) T1133  D) T1151", "correct_index": "C", "correct_id": "T1133"}
+{"question": "Choose the most suitable Countermeasure reachable from G1036 in three hops.\nA) T1181  B) T1007  C) T1490  D) T1070", "correct_index": "D", "correct_id": "T1070"}
+{"question": "Pick the Attack Pattern ID accessible from CAPEC-159 in one hop.\nA) CAPEC-185  B) CAPEC-427  C) CAPEC-80  D) CAPEC-695", "correct_index": "A", "correct_id": "CAPEC-185"}
+{"question": "Pick the Technique ID reachable from T1027.005 in one hop.\nA) T1027  B) T1584.001  C) T1562.012  D) T1056.003", "correct_index": "A", "correct_id": "T1027"}
+{"question": "Based on S0538 in one hop, which Technique ID can be reached?\nA) T1102.001  B) T1553.002  C) T1036.004  D) T1078.003", "correct_index": "C", "correct_id": "T1036.004"}
+{"question": "Pick the appropriate Technique ID for S0678 in one hop.\nA) T1573.001  B) T1136.002  C) T1098.002  D) T1557.002", "correct_index": "A", "correct_id": "T1573.001"}
+{"question": "Select the Common Weakness Enumeration identified from CAPEC-39 in one hop.\nA) CWE-190  B) CWE-563  C) CWE-353  D) CWE-908", "correct_index": "C", "correct_id": "CWE-353"}
+{"question": "From the starting node G0016 in three hops, which ATTACK Tactic is accessible?\nA) TA0042  B) TA0010  C) TA0011  D) TA0008", "correct_index": "B", "correct_id": "TA0010"}
+{"question": "Which option is a valid ATTACK Mitigation found from S1192 in one hop?\nA) T1028  B) T1105  C) M1053  D) T1202", "correct_index": "B", "correct_id": "T1105"}
+{"question": "According to the knowledge graph, which Technique can be reached from S0192 in one hop?\nA) T1564.001  B) T1502  C) T1584.007  D) T1573.002", "correct_index": "D", "correct_id": "T1573.002"}
+{"question": "Which Tactic Category is accessible from T1484.001 in one hop?\nA) TA0006  B) TA0040  C) TA0005  D) TA0003", "correct_index": "C", "correct_id": "TA0005"}
+{"question": "Pick the ATT&CK Technique reachable from DET0821 in one hop.\nA) T1016.002  B) T1598.001  C) T1665  D) T1569.003", "correct_index": "B", "correct_id": "T1598.001"}
+{"question": "Select the Attack Pattern ID accessible from CAPEC-276 in one hop.\nA) CAPEC-35  B) CAPEC-272  C) CAPEC-293  D) CAPEC-127", "correct_index": "B", "correct_id": "CAPEC-272"}
+{"question": "Choose the Tactic Category obtained from DET0218 in two hops.\nA) TA0043  B) TA0042  C) TA0006  D) TA0005", "correct_index": "D", "correct_id": "TA0005"}
+{"question": "Starting from DET0482 in one hop, which TTP Technique can be reached?\nA) T1566.001  B) T1218.010  C) T1134.001  D) T1547.004", "correct_index": "C", "correct_id": "T1134.001"}
+{"question": "Which option can be reached from S0195 in one hop as a Technique?\nA) T1546.006  B) T1485  C) T1665  D) T1578.005", "correct_index": "B", "correct_id": "T1485"}
+{"question": "Which ATTACK Mitigation would an analyst find starting from DET0114 in two hops?\nA) T1486  B) T1159  C) T1069  D) M1050", "correct_index": "C", "correct_id": "T1069"}
+{"question": "Choose the most suitable Defensive Measure reachable from C0051 in three hops.\nA) T1012  B) T1054  C) M1031  D) M1020", "correct_index": "A", "correct_id": "T1012"}
+{"question": "Pick the correct Attack Pattern ID reachable from CWE-128 in one hop.\nA) CAPEC-73  B) CAPEC-682  C) CAPEC-92  D) CAPEC-332", "correct_index": "C", "correct_id": "CAPEC-92"}
+{"question": "Identify the correct Tactical Objective reachable from G0055 in three hops.\nA) TA0010  B) TA0043  C) TA0005  D) TA0011", "correct_index": "C", "correct_id": "TA0005"}
+{"question": "Which option represents a Technique ID reachable from T1163 in one hop?\nA) T1037.004  B) T1090.002  C) T1137.002  D) T1213.005", "correct_index": "A", "correct_id": "T1037.004"}
+{"question": "Pick the ATT&CK Technique found from S0396 in one hop.\nA) T1606.001  B) T1547.004  C) T1543.003  D) T1059.011", "correct_index": "D", "correct_id": "T1059.011"}
+{"question": "Pick the Security Weakness found from CVE-2021-45232 in one hop.\nA) CWE-306  B) CWE-639  C) CWE-277  D) CWE-385", "correct_index": "A", "correct_id": "CWE-306"}
+{"question": "Which option can be obtained from DET0203 in one hop as a Technique?\nA) T1588.007  B) T1055.008  C) T1564.008  D) T1589", "correct_index": "B", "correct_id": "T1055.008"}
+{"question": "Pick the ATT&CK Tactic found from S0565 in two hops.\nA) TA0001  B) TA0005  C) TA0004  D) TA0010", "correct_index": "B", "correct_id": "TA0005"}
+{"question": "Which Tactic can be identified from S0626 in two hops?\nA) TA0042  B) TA0005  C) TA0043  D) TA0010", "correct_index": "B", "correct_id": "TA0005"}
+{"question": "In the knowledge graph, which ATT&CK Tactic is reachable from DET0024 in two hops?\nA) TA0043  B) TA0004  C) TA0006  D) TA0001", "correct_index": "C", "correct_id": "TA0006"}
+{"question": "Which option best represents a Attack Pattern reachable from CAPEC-556 in one hop?\nA) CAPEC-542  B) CAPEC-545  C) CAPEC-308  D) CAPEC-691", "correct_index": "A", "correct_id": "CAPEC-542"}
+{"question": "Which option is a valid Countermeasure found from C0014 in three hops?\nA) M1057  B) T1049  C) T1140  D) T1136", "correct_index": "D", "correct_id": "T1136"}
+{"question": "Select the Technique obtained from G0005 in two hops.\nA) T1562.001  B) T1070.004  C) T1195.003  D) T1588.002", "correct_index": "B", "correct_id": "T1070.004"}
+{"question": "Which Course of Action is accessible from S0057 in one hop?\nA) T1199  B) T1007  C) T1198  D) T1193", "correct_index": "B", "correct_id": "T1007"}
+{"question": "Select the ATTACK Tactic obtained from S0194 in two hops.\nA) TA0043  B) TA0011  C) TA0006  D) TA0008", "correct_index": "C", "correct_id": "TA0006"}
+{"question": "In cyber threat intelligence, which Tactical Objective is discovered from S0696 in two hops?\nA) TA0040  B) TA0042  C) TA0008  D) TA0004", "correct_index": "D", "correct_id": "TA0004"}
+{"question": "Pick the ATT&CK Technique found from C0058 in one hop.\nA) T1059.001  B) T1564.001  C) T1555.001  D) T1021.004", "correct_index": "A", "correct_id": "T1059.001"}
+{"question": "Which of the following ATT&CK Mitigation can be found from CAPEC-125 in one hop?\nA) T1037  B) T1499  C) T1046  D) T1153", "correct_index": "B", "correct_id": "T1499"}
+{"question": "Choose the Technique ID identified from C0035 in three hops.\nA) T1578  B) T1074.001  C) T1584.003  D) T1056.004", "correct_index": "D", "correct_id": "T1056.004"}
+{"question": "In the cybersecurity graph, which TTP Technique can be be identified from C0021 in one hop?\nA) T1563  B) T1584.004  C) T1027.005  D) T1583.001", "correct_index": "D", "correct_id": "T1583.001"}
+{"question": "In the graph structure, which Tactic can be reached from S1029 in two hops?\nA) TA0010  B) TA0006  C) TA0008  D) TA0043", "correct_index": "A", "correct_id": "TA0010"}
+{"question": "Which of the following ATT&CK Tactic can be reached from T1574 in one hop?\nA) TA0008  B) TA0007  C) TA0004  D) TA0002", "correct_index": "C", "correct_id": "TA0004"}
+{"question": "Pick the ATT&CK Tactic obtained from C0033 in three hops.\nA) TA0042  B) TA0043  C) TA0040  D) TA0008", "correct_index": "A", "correct_id": "TA0042"}
+{"question": "Identify which Technique can be reached from S0058 in one hop.\nA) T1584.001  B) T1027  C) T1021.002  D) T1547.009", "correct_index": "D", "correct_id": "T1547.009"}
+{"question": "Select the Adversary Technique reached starting from C0047 in one hop.\nA) T1071.004  B) T1673  C) T1566.002  D) T1677", "correct_index": "C", "correct_id": "T1566.002"}
+{"question": "Which Countermeasure can be identified from C0038 in one hop?\nA) M1051  B) T1105  C) T1089  D) T1024", "correct_index": "B", "correct_id": "T1105"}
+{"question": "Pick the Tactic Category obtained from G0009 in three hops.\nA) TA0001  B) TA0004  C) TA0042  D) TA0006", "correct_index": "D", "correct_id": "TA0006"}
+{"question": "Which of the following ATT&CK Tactic can be identified from G0018 in three hops?\nA) TA0011  B) TA0005  C) TA0010  D) TA0040", "correct_index": "A", "correct_id": "TA0011"}
+{"question": "From CAPEC-480 in two hops, which ATT&CK Tactic is reachable?\nA) TA0006  B) TA0004  C) TA0008  D) TA0009", "correct_index": "B", "correct_id": "TA0004"}
+{"question": "According to the graph, which Attack Pattern ID is discovered from CAPEC-179 in one hop?\nA) CAPEC-160  B) CAPEC-197  C) CAPEC-35  D) CAPEC-554", "correct_index": "D", "correct_id": "CAPEC-554"}
+{"question": "Select the Tactic reached starting from DET0844 in two hops.\nA) TA0042  B) TA0005  C) TA0007  D) TA0002", "correct_index": "A", "correct_id": "TA0042"}
+{"question": "From the starting node T1561.001 in one hop, which ATTACK Tactic is accessible?\nA) TA0003  B) TA0040  C) TA0005  D) TA0004", "correct_index": "B", "correct_id": "TA0040"}
+{"question": "Which ATTACK Tactic is obtained from DET0555 in two hops?\nA) TA0009  B) TA0003  C) TA0007  D) TA0042", "correct_index": "B", "correct_id": "TA0003"}
+{"question": "Identify the ATTACK Technique discovered from T1493 in one hop.\nA) T1556.002  B) T1556.003  C) T1543.002  D) T1565.002", "correct_index": "D", "correct_id": "T1565.002"}
+{"question": "According to the graph, which ATT&CK Mitigation is discovered from G1003 in three hops?\nA) T1204  B) T1120  C) T1494  D) T1142", "correct_index": "A", "correct_id": "T1204"}
+{"question": "For CWE-307 in one hop, which Attack Pattern is reachable?\nA) CAPEC-157  B) CAPEC-511  C) CAPEC-42  D) CAPEC-560", "correct_index": "D", "correct_id": "CAPEC-560"}
+{"question": "From the graph perspective, which TTP Technique is reachable from CAPEC-268 in one hop?\nA) T1542.005  B) T1593.001  C) T1562.008  D) T1559", "correct_index": "C", "correct_id": "T1562.008"}
+{"question": "Starting with DET0345 in two hops, which ATT&CK Tactic is discovered?\nA) TA0043  B) TA0006  C) TA0010  D) TA0004", "correct_index": "D", "correct_id": "TA0004"}
+{"question": "According to the knowledge graph, which Countermeasure can be reached from S0457 in one hop?\nA) M1020  B) T1007  C) T1486  D) T1216", "correct_index": "C", "correct_id": "T1486"}
+{"question": "From a security perspective, which ATT&CK Tactic is reachable from T1598.003 in one hop?\nA) TA0043  B) TA0001  C) TA0003  D) TA0008", "correct_index": "A", "correct_id": "TA0043"}
+{"question": "Select the correct ATTACK Technique reachable from S0475 in one hop.\nA) T1059.005  B) T1584.003  C) T1565.003  D) T1213.004", "correct_index": "A", "correct_id": "T1059.005"}
+{"question": "Identify the Technique ID found from S0684 in one hop.\nA) T1574.013  B) T1078.004  C) T1547.014  D) T1596", "correct_index": "B", "correct_id": "T1078.004"}
+{"question": "Which Technique ID would an analyst find starting from G0069 in one hop?\nA) T1588.004  B) T1036.002  C) T1546.006  D) T1548.002", "correct_index": "D", "correct_id": "T1548.002"}
+{"question": "According to the knowledge graph, which Malicious Software can be reached from C0042 in one hop?\nA) S0428  B) S1046  C) S0482  D) S1166", "correct_index": "D", "correct_id": "S1166"}
+{"question": "Choose the Course of Action discovered from G0009 in three hops.\nA) T1480  B) M1026  C) T1085  D) T1136", "correct_index": "D", "correct_id": "T1136"}
+{"question": "Pick the Malicious Software identified from G0062 in one hop.\nA) S0264  B) S0416  C) S0267  D) S0230", "correct_index": "D", "correct_id": "S0230"}
+{"question": "In the context of T1480.001 in one hop, which ATT&CK Tactic can be obtained?\nA) TA0005  B) TA0043  C) TA0011  D) TA0040", "correct_index": "A", "correct_id": "TA0005"}
+{"question": "Identify the Technique ID found from DET0419 in one hop.\nA) T1569.001  B) T1218.012  C) T1596.004  D) T1568.002", "correct_index": "D", "correct_id": "T1568.002"}
+{"question": "Pick the Tactic identified from T1084 in two hops.\nA) TA0010  B) TA0004  C) TA0043  D) TA0008", "correct_index": "B", "correct_id": "TA0004"}
+{"question": "Which of the following ATTACK Mitigation is reachable from G1046 in three hops?\nA) M1057  B) M1051  C) T1053  D) M1024", "correct_index": "C", "correct_id": "T1053"}
+{"question": "Which of the following Technique ID is reachable from C0035 in three hops?\nA) T1580  B) T1593.001  C) T1598  D) T1070.005", "correct_index": "D", "correct_id": "T1070.005"}
+{"question": "Which option corresponds to a ATT&CK Tactic discovered from CWE-346 in three hops?\nA) TA0040  B) TA0009  C) TA0004  D) TA0043", "correct_index": "C", "correct_id": "TA0004"}
+{"question": "Select the ATT&CK Mitigation obtained from S1032 in one hop.\nA) T1125  B) M1033  C) T1049  D) T1135", "correct_index": "C", "correct_id": "T1049"}
+{"question": "Select the Common Weakness Enumeration found from CWE-502 in one hop.\nA) CWE-1072  B) CWE-648  C) CWE-915  D) CWE-1060", "correct_index": "C", "correct_id": "CWE-915"}
+{"question": "Select the Tactic Category returned from DET0089 in two hops.\nA) TA0040  B) TA0005  C) TA0042  D) TA0006", "correct_index": "D", "correct_id": "TA0006"}
+{"question": "Select the ATTACK Mitigation obtained from DET0346 in one hop.\nA) T1113  B) T1501  C) T1201  D) T1023", "correct_index": "A", "correct_id": "T1113"}
+{"question": "In the knowledge representation, which Technique can be obtained from S0179 in one hop?\nA) T1563.001  B) T1003.007  C) T1588.003  D) T1218.008", "correct_index": "B", "correct_id": "T1003.007"}
+{"question": "Which option best represents a Tactical Objective reachable from T1546.003 in one hop?\nA) TA0009  B) TA0006  C) TA0004  D) TA0002", "correct_index": "C", "correct_id": "TA0004"}
+{"question": "Which of the following Tactic can be found from C0035 in two hops?\nA) TA0001  B) TA0043  C) TA0040  D) TA0011", "correct_index": "D", "correct_id": "TA0011"}
+{"question": "Identify the appropriate Technique for DET0350 in one hop.\nA) T1499.004  B) T1098.003  C) T1562.010  D) T1562.011", "correct_index": "C", "correct_id": "T1562.010"}
+{"question": "Starting from T1053 in one hop, which ATT&CK Tactic can be reached?\nA) TA0010  B) TA0009  C) TA0005  D) TA0004", "correct_index": "D", "correct_id": "TA0004"}
+{"question": "Which ATT&CK Tactic is accessible from T1163 in one hop?\nA) TA0011  B) TA0040  C) TA0007  D) TA0003", "correct_index": "D", "correct_id": "TA0003"}
+{"question": "Identify the Technique found from C0004 in two hops.\nA) T1583  B) T1505.004  C) T1573.002  D) T1569", "correct_index": "C", "correct_id": "T1573.002"}
+{"question": "In a threat analysis context, which Technique ID can be found from CVE-2019-10851 in three hops?\nA) T1548  B) T1552  C) T1657  D) T1552.001", "correct_index": "D", "correct_id": "T1552.001"}
+{"question": "Pick the TTP Technique obtained from C0047 in two hops.\nA) T1586.003  B) T1548.001  C) T1027  D) T1552.004", "correct_index": "C", "correct_id": "T1027"}
+{"question": "Identify the ATTACK Tactic returned from DET0262 in two hops.\nA) TA0002  B) TA0040  C) TA0004  D) TA0011", "correct_index": "D", "correct_id": "TA0011"}
+{"question": "Pick the Adversary Technique identified from CAPEC-698 in one hop.\nA) T1593  B) T1611  C) T1568.003  D) T1505.004", "correct_index": "D", "correct_id": "T1505.004"}
+{"question": "Choose the Countermeasure returned from S1087 in one hop.\nA) T1066  B) T1159  C) T1072  D) T1113", "correct_index": "D", "correct_id": "T1113"}
+{"question": "Identify the correct Tactical Objective reachable from T1175 in one hop.\nA) TA0040  B) TA0008  C) TA0001  D) TA0009", "correct_index": "B", "correct_id": "TA0008"}
+{"question": "According to the graph, which Tactic Category is discovered from T1197 in one hop?\nA) TA0043  B) TA0008  C) TA0004  D) TA0005", "correct_index": "D", "correct_id": "TA0005"}
+{"question": "Identify the Hacking Tool found from C0024 in two hops.\nA) S0095  B) S0684  C) S0250  D) S0194", "correct_index": "B", "correct_id": "S0684"}
+{"question": "Which of the following ATTACK Technique is reachable from S0488 in one hop?\nA) T1553  B) T1556.009  C) T1003.003  D) T1506", "correct_index": "C", "correct_id": "T1003.003"}
+{"question": "Starting from CWE-838 in one hop, which CAPEC can be reached?\nA) CAPEC-468  B) CAPEC-447  C) CAPEC-175  D) CAPEC-467", "correct_index": "A", "correct_id": "CAPEC-468"}
+{"question": "Which option represents a ATTACK Tactic reachable from T1499 in one hop?\nA) TA0040  B) TA0007  C) TA0011  D) TA0043", "correct_index": "A", "correct_id": "TA0040"}
+{"question": "In the knowledge representation, which Technique can be obtained from DET0110 in one hop?\nA) T1548.001  B) T1600.002  C) T1218.010  D) T1596.004", "correct_index": "A", "correct_id": "T1548.001"}
+{"question": "Which CWE is discovered from CVE-2021-3654 in one hop?\nA) CWE-601  B) CWE-267  C) CWE-1064  D) CWE-276", "correct_index": "A", "correct_id": "CWE-601"}
+{"question": "Choose the ATT&CK Tactic reachable from S0434 in two hops.\nA) TA0011  B) TA0007  C) TA0001  D) TA0004", "correct_index": "B", "correct_id": "TA0007"}
+{"question": "Pick the Technique discovered from T1552.006 in one hop.\nA) T1578.002  B) T1552.005  C) T1556.001  D) T1552", "correct_index": "D", "correct_id": "T1552"}
+{"question": "Which Technique can be found from S1176 in one hop?\nA) T1564.001  B) T1059.001  C) T1213.002  D) T1048.003", "correct_index": "A", "correct_id": "T1564.001"}
+{"question": "Identify the most relevant Security Weakness reachable from CAPEC-176 in one hop.\nA) CWE-1127  B) CWE-15  C) CWE-1188  D) CWE-570", "correct_index": "B", "correct_id": "CWE-15"}
+{"question": "In the context of C0035 in two hops, which Adversary Technique can be obtained?\nA) T1587.004  B) T1496.002  C) T1553.004  D) T1110.001", "correct_index": "A", "correct_id": "T1587.004"}
+{"question": "Identify the Technique ID discovered from S0530 in one hop.\nA) T1565.002  B) T1583.002  C) T1222  D) T1132.001", "correct_index": "A", "correct_id": "T1565.002"}
+{"question": "Which Software Weakness is returned from CVE-2025-60661 in one hop?\nA) CWE-787  B) CWE-698  C) CWE-581  D) CWE-1057", "correct_index": "A", "correct_id": "CWE-787"}
+{"question": "Which ATTACK Tactic is returned from C0059 in two hops?\nA) TA0006  B) TA0004  C) TA0040  D) TA0008", "correct_index": "B", "correct_id": "TA0004"}
+{"question": "Which of the following ATTACK Mitigation can be found from S0251 in one hop?\nA) T1153  B) T1119  C) T1044  D) M1038", "correct_index": "B", "correct_id": "T1119"}
+{"question": "Which option corresponds to a TTP Technique discovered from DET0001 in one hop?\nA) T1595.001  B) T1552.005  C) T1503  D) T1052.001", "correct_index": "B", "correct_id": "T1552.005"}
+{"question": "Within the graph, which Adversary Technique is found from DET0502 in one hop?\nA) T1564  B) T1027.003  C) T1219.001  D) T1070.007", "correct_index": "A", "correct_id": "T1564"}
+{"question": "From a security perspective, which ATT&CK Tactic is reachable from T1219 in one hop?\nA) TA0007  B) TA0006  C) TA0011  D) TA0043", "correct_index": "C", "correct_id": "TA0011"}
+{"question": "Identify the appropriate Technique for DET0156 in one hop.\nA) T1506  B) T1496.003  C) T1588.006  D) T1480.002", "correct_index": "B", "correct_id": "T1496.003"}
+{"question": "Which option represents a Technique reachable from S1102 in one hop?\nA) T1550.001  B) T1574.001  C) T1070.002  D) T1547", "correct_index": "B", "correct_id": "T1574.001"}
+{"question": "Which option can be obtained from C0026 in two hops as a Technique?\nA) T1195.001  B) T1567.003  C) T1106  D) T1588.006", "correct_index": "C", "correct_id": "T1106"}
+{"question": "Identify the Technique ID obtained from G0059 in one hop.\nA) T1573.002  B) T1114.003  C) T1596.001  D) T1598.003", "correct_index": "D", "correct_id": "T1598.003"}
+{"question": "Within the cybersecurity KG, which Defensive Measure is accessible from S0359 in one hop?\nA) T1130  B) M1049  C) T1182  D) T1018", "correct_index": "D", "correct_id": "T1018"}
+{"question": "Which of the following Technique ID is reachable from C0035 in two hops?\nA) T1136.001  B) T1001.003  C) T1598  D) T1070.007", "correct_index": "D", "correct_id": "T1070.007"}
+{"question": "Pick the Tactic Category discovered from S0684 in two hops.\nA) TA0008  B) TA0010  C) TA0009  D) TA0006", "correct_index": "C", "correct_id": "TA0009"}
+{"question": "Select the correct Technique reachable from S0633 in one hop.\nA) T1078.003  B) T1601  C) T1027.015  D) T1027.004", "correct_index": "D", "correct_id": "T1027.004"}
+{"question": "Given G0012 in one hop, which Countermeasure can be found?\nA) T1015  B) T1091  C) T1030  D) T1183", "correct_index": "B", "correct_id": "T1091"}
+{"question": "Which Course of Action can be reached from S1046 in one hop?\nA) T1075  B) M1054  C) T1185  D) T1036", "correct_index": "D", "correct_id": "T1036"}
+{"question": "Which option can be reached from DET0536 in one hop as a Technique ID?\nA) T1562.010  B) T1669  C) T1204.001  D) T1583.003", "correct_index": "B", "correct_id": "T1669"}
+{"question": "In the knowledge representation, which Defensive Measure can be obtained from S0195 in two hops?\nA) T1053  B) T1070  C) T1095  D) T1494", "correct_index": "B", "correct_id": "T1070"}
+{"question": "Choose the Adversary Technique accessible from C0034 in one hop.\nA) T1587.003  B) T1204.003  C) T1497.001  D) T1572", "correct_index": "D", "correct_id": "T1572"}
+{"question": "Which ATT&CK Technique is discovered from C0043 in one hop?\nA) T1053.004  B) T1071.001  C) T1021.004  D) T1055.004", "correct_index": "B", "correct_id": "T1071.001"}
+{"question": "Pick the ATT&CK Technique discovered from DET0553 in one hop.\nA) T1027.001  B) T1218.013  C) T1526  D) T1020.001", "correct_index": "A", "correct_id": "T1027.001"}
+{"question": "Identify the Tactic found from T1114 in one hop.\nA) TA0040  B) TA0005  C) TA0009  D) TA0001", "correct_index": "C", "correct_id": "TA0009"}
+{"question": "Identify the most relevant Countermeasure reachable from S0103 in one hop.\nA) M1018  B) T1049  C) T1016  D) T1190", "correct_index": "C", "correct_id": "T1016"}
+{"question": "Which option represents a Security Weakness reachable from CVE-2022-0379 in one hop?\nA) CWE-538  B) CWE-79  C) CWE-1098  D) CWE-620", "correct_index": "B", "correct_id": "CWE-79"}
+{"question": "Choose the correct Course of Action reachable from S1159 in one hop.\nA) T1211  B) T1016  C) T1091  D) T1197", "correct_index": "B", "correct_id": "T1016"}
+{"question": "Which ATTACK Technique can be identified from T1024 in one hop?\nA) T1048.003  B) T1566.002  C) T1573  D) T1587.001", "correct_index": "C", "correct_id": "T1573"}
+{"question": "Pick the ATT&CK Technique returned from C0032 in one hop.\nA) T1558.003  B) T1087.003  C) T1572  D) T1098", "correct_index": "C", "correct_id": "T1572"}
+{"question": "Beginning at T1547.013 in one hop, which Tactical Objective can be identified?\nA) TA0006  B) TA0040  C) TA0001  D) TA0003", "correct_index": "D", "correct_id": "TA0003"}
+{"question": "Select the Technique obtained from DET0074 in one hop.\nA) T1566.003  B) T1550.004  C) T1070.007  D) T1562.003", "correct_index": "B", "correct_id": "T1550.004"}
+{"question": "Which option represents a ATT&CK Technique reachable from C0047 in three hops?\nA) T1003.002  B) T1548.006  C) T1567.004  D) T1584.006", "correct_index": "A", "correct_id": "T1003.002"}
+{"question": "Pick the ATT&CK Tactic found from S1155 in two hops.\nA) TA0010  B) TA0005  C) TA0004  D) TA0006", "correct_index": "B", "correct_id": "TA0005"}
+{"question": "Select the Attack Pattern found from CAPEC-279 in one hop.\nA) CAPEC-594  B) CAPEC-305  C) CAPEC-184  D) CAPEC-110", "correct_index": "D", "correct_id": "CAPEC-110"}
+{"question": "Beginning at DET0453 in one hop, which Technique ID can be identified?\nA) T1602.001  B) T1565  C) T1491.001  D) T1568.003", "correct_index": "A", "correct_id": "T1602.001"}
+{"question": "Which Adversary Technique can be obtained from S0183 in one hop?\nA) T1090.003  B) T1602.001  C) T1070.002  D) T1546.015", "correct_index": "A", "correct_id": "T1090.003"}
+{"question": "Which Technique ID is typically reached from S1040 in one hop?\nA) T1554  B) T1560.001  C) T1547  D) T1559", "correct_index": "B", "correct_id": "T1560.001"}
+{"question": "Which option best represents a Common Weakness Enumeration reachable from CWE-186 in one hop?\nA) CWE-1058  B) CWE-243  C) CWE-360  D) CWE-184", "correct_index": "D", "correct_id": "CWE-184"}
+{"question": "Pick the ATTACK Mitigation accessible from S0359 in one hop.\nA) M1022  B) T1018  C) T1202  D) M1033", "correct_index": "B", "correct_id": "T1018"}
+{"question": "Choose the Mitigation discovered from CWE-308 in two hops.\nA) T1084  B) T1133  C) T1040  D) T1489", "correct_index": "B", "correct_id": "T1133"}
+{"question": "Which option can be reached from CWE-323 in one hop as a Common Weakness Enumeration?\nA) CWE-1204  B) CWE-344  C) CWE-295  D) CWE-1341", "correct_index": "B", "correct_id": "CWE-344"}
+{"question": "Using C0018 as the starting point in three hops, which ATT&CK Tactic is returned?\nA) TA0001  B) TA0002  C) TA0004  D) TA0040", "correct_index": "C", "correct_id": "TA0004"}
+{"question": "Pick the Software Weakness accessible from CVE-2024-35705 in one hop.\nA) CWE-335  B) CWE-79  C) CWE-229  D) CWE-822", "correct_index": "B", "correct_id": "CWE-79"}
+{"question": "Pick the Adversary Technique returned from S1155 in one hop.\nA) T1055.014  B) T1564.001  C) T1047  D) T1518", "correct_index": "C", "correct_id": "T1047"}
+{"question": "Which Countermeasure can be found from C0050 in two hops?\nA) T1120  B) T1174  C) T1040  D) T1130", "correct_index": "C", "correct_id": "T1040"}
+{"question": "In the cybersecurity graph, which Course of Action can be be identified from G0026 in three hops?\nA) M1029  B) T1132  C) M1028  D) T1067", "correct_index": "B", "correct_id": "T1132"}
+{"question": "Which ATT&CK Tactic is discovered from G1018 in three hops?\nA) TA0004  B) TA0006  C) TA0043  D) TA0001", "correct_index": "B", "correct_id": "TA0006"}
+{"question": "Choose the CWE discovered from CVE-2024-30214 in one hop.\nA) CWE-1063  B) CWE-434  C) CWE-470  D) CWE-79", "correct_index": "D", "correct_id": "CWE-79"}
+{"question": "Pick the ATT&CK Technique obtained from C0033 in two hops.\nA) T1036.004  B) T1555.006  C) T1078.002  D) T1055.012", "correct_index": "A", "correct_id": "T1036.004"}
+{"question": "Beginning at T1122 in two hops, which Tactic Category can be identified?\nA) TA0043  B) TA0004  C) TA0006  D) TA0010", "correct_index": "B", "correct_id": "TA0004"}
+{"question": "Which Technique ID would be reached from S0561 in one hop in a SOC investigation?\nA) T1564.005  B) T1098.002  C) T1557.004  D) T1071.001", "correct_index": "D", "correct_id": "T1071.001"}
+{"question": "In the knowledge representation, which Defensive Measure can be obtained from S0137 in one hop?\nA) T1082  B) T1053  C) T1065  D) T1494", "correct_index": "A", "correct_id": "T1082"}
+{"question": "Select the appropriate TTP Technique for T1558.002 in one hop.\nA) T1558  B) T1556.002  C) T1555  D) T1547.014", "correct_index": "A", "correct_id": "T1558"}
+{"question": "Which option can be obtained from DET0865 in one hop as a TTP Technique?\nA) T1681  B) T1602.001  C) T1598.002  D) T1053.001", "correct_index": "C", "correct_id": "T1598.002"}
+{"question": "Select the Technique accessible from S0633 in one hop.\nA) T1071  B) T1110.004  C) T1027.001  D) T1205.001", "correct_index": "A", "correct_id": "T1071"}
+{"question": "From the starting node T1132 in one hop, which Tactic Category is accessible?\nA) TA0005  B) TA0011  C) TA0008  D) TA0001", "correct_index": "B", "correct_id": "TA0011"}
+{"question": "Choose the Tactical Objective found from S0123 in two hops.\nA) TA0043  B) TA0042  C) TA0001  D) TA0002", "correct_index": "D", "correct_id": "TA0002"}
+{"question": "Starting from T1120 in one hop, which ATTACK Tactic can be reached?\nA) TA0043  B) TA0040  C) TA0007  D) TA0002", "correct_index": "C", "correct_id": "TA0007"}
+{"question": "Which Technique is typically reached from S1087 in one hop?\nA) T1053.005  B) T1601.001  C) T1546.005  D) T1134.004", "correct_index": "A", "correct_id": "T1053.005"}
+{"question": "Select the appropriate Tactic Category for T1049 in one hop.\nA) TA0007  B) TA0001  C) TA0043  D) TA0003", "correct_index": "A", "correct_id": "TA0007"}
+{"question": "Identify the correct Intrusion Set reachable from C0039 in one hop.\nA) G1048  B) G0008  C) G1017  D) G0017", "correct_index": "C", "correct_id": "G1017"}
+{"question": "For G0081 in three hops, which Tactical Objective is reachable?\nA) TA0007  B) TA0043  C) TA0006  D) TA0003", "correct_index": "C", "correct_id": "TA0006"}
+{"question": "Identify the Adversary Technique found from C0024 in three hops.\nA) T1569.002  B) T1027.016  C) T1132.002  D) T1555.001", "correct_index": "B", "correct_id": "T1027.016"}
+{"question": "Which option can be obtained from S1240 in two hops as a ATT&CK Tactic?\nA) TA0042  B) TA0007  C) TA0008  D) TA0001", "correct_index": "B", "correct_id": "TA0007"}
+{"question": "Identify which ATT&CK Technique can be reached from S0500 in one hop.\nA) T1565.001  B) T1595.001  C) T1055.004  D) T1059.003", "correct_index": "D", "correct_id": "T1059.003"}
+{"question": "Which Attack Pattern is returned from CWE-1037 in one hop?\nA) CAPEC-663  B) CAPEC-691  C) CAPEC-296  D) CAPEC-498", "correct_index": "A", "correct_id": "CAPEC-663"}
+{"question": "Which Countermeasure is returned from C0045 in one hop?\nA) T1080  B) M1044  C) T1190  D) T1214", "correct_index": "C", "correct_id": "T1190"}
+{"question": "Which option can be obtained from CAPEC-590 in one hop as a Attack Pattern?\nA) CAPEC-196  B) CAPEC-203  C) CAPEC-243  D) CAPEC-603", "correct_index": "D", "correct_id": "CAPEC-603"}
+{"question": "Identify the ATT&CK Mitigation obtained from CAPEC-309 in one hop.\nA) T1157  B) T1172  C) T1049  D) T1012", "correct_index": "C", "correct_id": "T1049"}
+{"question": "Based on CAPEC-500 in one hop, which Security Weakness can be reached?\nA) CWE-253  B) CWE-193  C) CWE-749  D) CWE-386", "correct_index": "C", "correct_id": "CWE-749"}
+{"question": "Which Tactic can be found from T1560.003 in one hop?\nA) TA0040  B) TA0006  C) TA0005  D) TA0009", "correct_index": "D", "correct_id": "TA0009"}
+{"question": "Pick the most relevant ATT&CK Tactic reachable from DET0050 in two hops.\nA) TA0005  B) TA0010  C) TA0003  D) TA0002", "correct_index": "C", "correct_id": "TA0003"}
+{"question": "From the starting node C0057 in two hops, which Tactic Category is accessible?\nA) TA0043  B) TA0010  C) TA0040  D) TA0005", "correct_index": "D", "correct_id": "TA0005"}
+{"question": "Select the Course of Action reachable from S0654 in one hop.\nA) T1093  B) T1147  C) T1216  D) T1486", "correct_index": "D", "correct_id": "T1486"}
+{"question": "Which of the following Technique ID can be reached from DET0842 in one hop?\nA) T1562.008  B) T1588.007  C) T1574.009  D) T1566.004", "correct_index": "B", "correct_id": "T1588.007"}
+{"question": "Choose the Defensive Measure returned from S0404 in one hop.\nA) M1022  B) T1081  C) T1175  D) T1006", "correct_index": "D", "correct_id": "T1006"}
+{"question": "Which option can be reached from S1131 in one hop as a Technique?\nA) T1036.002  B) T1552  C) T1588.002  D) T1578", "correct_index": "B", "correct_id": "T1552"}
+{"question": "Which ATTACK Mitigation is returned when analyzing C0004 in one hop?\nA) T1120  B) T1121  C) T1105  D) T1095", "correct_index": "C", "correct_id": "T1105"}
+{"question": "Which of the following Tactic Category can be identified from T1556.009 in one hop?\nA) TA0005  B) TA0002  C) TA0043  D) TA0007", "correct_index": "A", "correct_id": "TA0005"}
+{"question": "Which option can be reached from G1024 in three hops as a Countermeasure?\nA) M1043  B) T1134  C) T1013  D) M1025", "correct_index": "B", "correct_id": "T1134"}
+{"question": "Select the ATTACK Technique discovered from G1033 in one hop.\nA) T1586.002  B) T1588.003  C) T1584.007  D) T1592.001", "correct_index": "A", "correct_id": "T1586.002"}
+{"question": "Select the ATT&CK Mitigation found from G0022 in three hops.\nA) T1115  B) T1049  C) T1102  D) T1077", "correct_index": "C", "correct_id": "T1102"}
+{"question": "Which Tactical Objective is reachable starting from S1176 in two hops?\nA) TA0010  B) TA0005  C) TA0042  D) TA0043", "correct_index": "B", "correct_id": "TA0005"}
+{"question": "Select the TTP Technique reachable from C0015 in one hop.\nA) T1614  B) T1011.001  C) T1546.018  D) T1059.005", "correct_index": "D", "correct_id": "T1059.005"}
+{"question": "Beginning at T1680 in one hop, which Tactic can be identified?\nA) TA0043  B) TA0040  C) TA0007  D) TA0005", "correct_index": "C", "correct_id": "TA0007"}
+{"question": "Pick the correct Technique reachable from S1209 in one hop.\nA) T1562.009  B) T1583.005  C) T1071.001  D) T1598", "correct_index": "C", "correct_id": "T1071.001"}
+{"question": "Which Security Weakness is accessible from CVE-2025-1196 in one hop?\nA) CWE-295  B) CWE-94  C) CWE-1089  D) CWE-1285", "correct_index": "B", "correct_id": "CWE-94"}
+{"question": "In the knowledge representation, which TTP Technique can be obtained from C0007 in one hop?\nA) T1557.002  B) T1053.005  C) T1047  D) T1564.003", "correct_index": "C", "correct_id": "T1047"}
+{"question": "Within the graph, which Technique ID is found from DET0830 in one hop?\nA) T1566  B) T1547.009  C) T1595  D) T1578", "correct_index": "C", "correct_id": "T1595"}
+{"question": "In the cybersecurity graph, which Tactic Category can be be identified from CAPEC-440 in two hops?\nA) TA0003  B) TA0004  C) TA0001  D) TA0008", "correct_index": "C", "correct_id": "TA0001"}
+{"question": "In the knowledge representation, which ATTACK Technique can be obtained from G1021 in two hops?\nA) T1003.004  B) T1590  C) T1216.001  D) T1588.001", "correct_index": "A", "correct_id": "T1003.004"}
+{"question": "Which option best represents a Course of Action reachable from DET0487 in two hops?\nA) T1010  B) T1066  C) T1176  D) T1110", "correct_index": "D", "correct_id": "T1110"}
+{"question": "Select the Tactic Category accessible from T1537 in one hop.\nA) TA0008  B) TA0010  C) TA0007  D) TA0011", "correct_index": "B", "correct_id": "TA0010"}
+{"question": "For T1547.001 in one hop, which ATT&CK Tactic is reachable?\nA) TA0042  B) TA0011  C) TA0005  D) TA0003", "correct_index": "D", "correct_id": "TA0003"}
+{"question": "Identify the Technique reachable from T1059.007 in one hop.\nA) T1059  B) T1552.008  C) T1574.005  D) T1594", "correct_index": "A", "correct_id": "T1059"}
+{"question": "Which Technique ID is commonly discovered from DET0544 in one hop during security analysis?\nA) T1055.013  B) T1055.002  C) T1590.006  D) T1599", "correct_index": "A", "correct_id": "T1055.013"}
+{"question": "Which CAPEC can be reached from CAPEC-401 in one hop?\nA) CAPEC-440  B) CAPEC-593  C) CAPEC-474  D) CAPEC-702", "correct_index": "A", "correct_id": "CAPEC-440"}
+{"question": "According to the knowledge graph, which Technique ID can be reached from DET0106 in one hop?\nA) T1055.002  B) T1090.004  C) T1055.008  D) T1622", "correct_index": "A", "correct_id": "T1055.002"}
+{"question": "Identify the Tactical Objective accessible from C0013 in three hops.\nA) TA0006  B) TA0005  C) TA0008  D) TA0007", "correct_index": "D", "correct_id": "TA0007"}
+{"question": "Choose the Weakness found from CVE-2016-15049 in one hop.\nA) CWE-79  B) CWE-474  C) CWE-694  D) CWE-1289", "correct_index": "A", "correct_id": "CWE-79"}
+{"question": "Select the ATT&CK Tactic accessible from T1196 in one hop.\nA) TA0005  B) TA0042  C) TA0008  D) TA0009", "correct_index": "A", "correct_id": "TA0005"}
+{"question": "Select the Attack Pattern obtained from CAPEC-321 in one hop.\nA) CAPEC-568  B) CAPEC-312  C) CAPEC-670  D) CAPEC-400", "correct_index": "B", "correct_id": "CAPEC-312"}
+{"question": "Which CAPEC is reachable starting from CVE-2022-0379 in two hops?\nA) CAPEC-209  B) CAPEC-229  C) CAPEC-140  D) CAPEC-636", "correct_index": "A", "correct_id": "CAPEC-209"}
+{"question": "Which Mitigation would an analyst find starting from G0055 in three hops?\nA) T1070  B) T1003  C) T1125  D) T1492", "correct_index": "A", "correct_id": "T1070"}
+{"question": "Which Course of Action is returned from C0042 in one hop?\nA) T1217  B) M1048  C) T1079  D) T1014", "correct_index": "A", "correct_id": "T1217"}
+{"question": "Pick the Tactic Category discovered from CAPEC-652 in two hops.\nA) TA0006  B) TA0010  C) TA0001  D) TA0040", "correct_index": "A", "correct_id": "TA0006"}
+{"question": "In the knowledge representation, which Tactic Category can be obtained from C0011 in three hops?\nA) TA0003  B) TA0001  C) TA0002  D) TA0040", "correct_index": "A", "correct_id": "TA0003"}
+{"question": "Which option can be reached from DET0266 in one hop as a Technique ID?\nA) T1547.001  B) T1055.004  C) T1070.008  D) T1591", "correct_index": "C", "correct_id": "T1070.008"}
+{"question": "Pick the Tactic reachable from C0040 in three hops.\nA) TA0007  B) TA0003  C) TA0042  D) TA0009", "correct_index": "A", "correct_id": "TA0007"}
+{"question": "Which of the following ATT&CK Tactic can be reached from T1546.010 in one hop?\nA) TA0009  B) TA0008  C) TA0003  D) TA0043", "correct_index": "C", "correct_id": "TA0003"}
+{"question": "Identify the correct ATT&CK Mitigation reachable from G0029 in two hops.\nA) T1009  B) T1085  C) T1041  D) M1049", "correct_index": "C", "correct_id": "T1041"}
+{"question": "Which option can be obtained from G0061 in three hops as a Mitigation?\nA) T1014  B) M1047  C) T1069  D) M1013", "correct_index": "C", "correct_id": "T1069"}
+{"question": "Identify the ATTACK Mitigation returned from S0521 in two hops.\nA) T1197  B) T1087  C) T1093  D) T1052", "correct_index": "B", "correct_id": "T1087"}
+{"question": "Pick the most relevant Technique ID reachable from T1178 in one hop.\nA) T1021.002  B) T1016.002  C) T1134.005  D) T1558.005", "correct_index": "C", "correct_id": "T1134.005"}
+{"question": "In the knowledge graph, which Attack Pattern is reachable from CAPEC-59 in one hop?\nA) CAPEC-196  B) CAPEC-478  C) CAPEC-393  D) CAPEC-218", "correct_index": "A", "correct_id": "CAPEC-196"}
+{"question": "Select the correct Course of Action reachable from C0015 in two hops.\nA) T1182  B) T1008  C) T1188  D) T1101", "correct_index": "B", "correct_id": "T1008"}
+{"question": "Which option can be reached from CAPEC-330 in one hop as a Attack Pattern?\nA) CAPEC-312  B) CAPEC-183  C) CAPEC-32  D) CAPEC-401", "correct_index": "A", "correct_id": "CAPEC-312"}
+{"question": "Which option is a valid Tactic Category found from T1134 in one hop?\nA) TA0040  B) TA0005  C) TA0008  D) TA0043", "correct_index": "B", "correct_id": "TA0005"}
+{"question": "Identify the correct ATTACK Technique reachable from G0004 in one hop.\nA) T1560.001  B) T1090.002  C) T1098  D) T1543.002", "correct_index": "A", "correct_id": "T1560.001"}
+{"question": "Which of the following ATTACK Technique is reachable from C0055 in one hop?\nA) T1059  B) T1574  C) T1053.005  D) T1584.005", "correct_index": "D", "correct_id": "T1584.005"}
+{"question": "Which Tactic can be identified from C0043 in three hops?\nA) TA0009  B) TA0007  C) TA0043  D) TA0042", "correct_index": "B", "correct_id": "TA0007"}
+{"question": "Starting with T1548.005 in one hop, which ATT&CK Tactic is discovered?\nA) TA0040  B) TA0005  C) TA0003  D) TA0001", "correct_index": "B", "correct_id": "TA0005"}
+{"question": "Choose the ATTACK Mitigation discovered from G0039 in one hop.\nA) T1142  B) T1008  C) T1078  D) T1194", "correct_index": "C", "correct_id": "T1078"}
+{"question": "Starting with CAPEC-516 in one hop, which Attack Pattern ID is discovered?\nA) CAPEC-596  B) CAPEC-600  C) CAPEC-444  D) CAPEC-556", "correct_index": "C", "correct_id": "CAPEC-444"}
+{"question": "In the knowledge representation, which ATTACK Technique can be obtained from DET0227 in one hop?\nA) T1056.004  B) T1571  C) T1001.003  D) T1505.001", "correct_index": "B", "correct_id": "T1571"}
+{"question": "From a security perspective, which ATT&CK Tactic is reachable from T1565.003 in one hop?\nA) TA0010  B) TA0005  C) TA0002  D) TA0040", "correct_index": "D", "correct_id": "TA0040"}
+{"question": "From the starting node C0057 in one hop, which Adversary Technique is accessible?\nA) T1564.008  B) T1037.001  C) T1566.004  D) T1559", "correct_index": "D", "correct_id": "T1559"}
+{"question": "Choose the correct TTP Technique reachable from S0684 in one hop.\nA) T1087.004  B) T1137.002  C) T1136.002  D) T1070.006", "correct_index": "A", "correct_id": "T1087.004"}
+{"question": "Select the Tool reached starting from G0028 in one hop.\nA) S1155  B) S0695  C) S0097  D) S0029", "correct_index": "D", "correct_id": "S0029"}
+{"question": "Which ATT&CK Tactic is reachable starting from T1074 in one hop?\nA) TA0040  B) TA0001  C) TA0002  D) TA0009", "correct_index": "D", "correct_id": "TA0009"}
+{"question": "Pick the ATTACK Mitigation found from C0030 in three hops.\nA) T1158  B) M1049  C) T1152  D) T1134", "correct_index": "D", "correct_id": "T1134"}
+{"question": "Which ATTACK Tactic is returned when analyzing DET0048 in two hops?\nA) TA0003  B) TA0009  C) TA0002  D) TA0007", "correct_index": "B", "correct_id": "TA0009"}
+{"question": "Choose the most suitable Technique reachable from C0057 in one hop.\nA) T1574  B) T1613  C) T1562.006  D) T1055", "correct_index": "D", "correct_id": "T1055"}
+{"question": "Identify the Tactic found from C0004 in three hops.\nA) TA0003  B) TA0040  C) TA0006  D) TA0043", "correct_index": "C", "correct_id": "TA0006"}
+{"question": "Which option can be obtained from S0158 in two hops as a ATTACK Tactic?\nA) TA0005  B) TA0009  C) TA0010  D) TA0042", "correct_index": "A", "correct_id": "TA0005"}
+{"question": "Which ATTACK Tactic can be identified from T1087 in one hop?\nA) TA0007  B) TA0011  C) TA0043  D) TA0003", "correct_index": "A", "correct_id": "TA0007"}
+{"question": "Identify the most relevant Tactical Objective reachable from S0039 in two hops.\nA) TA0011  B) TA0042  C) TA0009  D) TA0007", "correct_index": "D", "correct_id": "TA0007"}
+{"question": "Select the CAPEC reached starting from CAPEC-237 in one hop.\nA) CAPEC-79  B) CAPEC-480  C) CAPEC-394  D) CAPEC-675", "correct_index": "B", "correct_id": "CAPEC-480"}
+{"question": "Pick the Tactic Category reachable from T1102 in one hop.\nA) TA0001  B) TA0011  C) TA0004  D) TA0042", "correct_index": "B", "correct_id": "TA0011"}
+{"question": "Choose the Technique ID reachable from S0023 in one hop.\nA) T1059  B) T1562.012  C) T1491.002  D) T1606.002", "correct_index": "A", "correct_id": "T1059"}
+{"question": "Which of the following Tactic Category is reachable from T1595 in one hop?\nA) TA0043  B) TA0004  C) TA0008  D) TA0005", "correct_index": "A", "correct_id": "TA0043"}
+{"question": "Pick the ATT&CK Mitigation accessible from S0669 in two hops.\nA) T1045  B) T1119  C) T1204  D) T1044", "correct_index": "C", "correct_id": "T1204"}
+{"question": "Which of the following ATT&CK Technique can be reached from DET0884 in one hop?\nA) T1110.002  B) T1027.011  C) T1559.001  D) T1650", "correct_index": "D", "correct_id": "T1650"}
+{"question": "In a threat analysis context, which Tactical Objective can be found from T1498 in one hop?\nA) TA0011  B) TA0040  C) TA0043  D) TA0008", "correct_index": "B", "correct_id": "TA0040"}
+{"question": "Identify which Defensive Measure can be reached from C0045 in one hop.\nA) T1177  B) T1210  C) T1068  D) T1204", "correct_index": "C", "correct_id": "T1068"}
+{"question": "Identify which Technique can be reached from C0045 in one hop.\nA) T1496.001  B) T1137.003  C) T1070.005  D) T1546.006", "correct_index": "A", "correct_id": "T1496.001"}
+{"question": "Which Adversary Technique is obtained from C0007 in one hop?\nA) T1543.001  B) T1562.007  C) T1059  D) T1560.001", "correct_index": "D", "correct_id": "T1560.001"}
+{"question": "Pick the Attack Pattern ID accessible from CVE-2024-35705 in two hops.\nA) CAPEC-184  B) CAPEC-209  C) CAPEC-576  D) CAPEC-174", "correct_index": "B", "correct_id": "CAPEC-209"}
+{"question": "Which of the following Adversary Technique can be reached from S0521 in one hop?\nA) T1560  B) T1591.003  C) T1547.001  D) T1592.001", "correct_index": "A", "correct_id": "T1560"}
+{"question": "In cyber threat intelligence, which ATT&CK Technique is discovered from G0061 in one hop?\nA) T1588.003  B) T1669  C) T1132.002  D) T1584.008", "correct_index": "A", "correct_id": "T1588.003"}
+{"question": "Which TTP Technique would an analyst find starting from C0058 in one hop?\nA) T1505.004  B) T1069.001  C) T1680  D) T1574.010", "correct_index": "A", "correct_id": "T1505.004"}
+{"question": "Identify the Technique ID obtained from S0179 in one hop.\nA) T1552.003  B) T1589.002  C) T1059.007  D) T1003.007", "correct_index": "D", "correct_id": "T1003.007"}
+{"question": "Based on S0179 in one hop, which Technique ID can be reached?\nA) T1552.002  B) T1059.010  C) T1003.007  D) T1608.004", "correct_index": "C", "correct_id": "T1003.007"}
+{"question": "Select the correct Tactical Objective reachable from T1132.002 in one hop.\nA) TA0004  B) TA0005  C) TA0011  D) TA0043", "correct_index": "C", "correct_id": "TA0011"}
+{"question": "Pick the Attack Pattern identified from CAPEC-561 in one hop.\nA) CAPEC-545  B) CAPEC-539  C) CAPEC-247  D) CAPEC-520", "correct_index": "A", "correct_id": "CAPEC-545"}
+{"question": "Pick the Countermeasure found from G0018 in two hops.\nA) T1028  B) T1195  C) T1112  D) T1001", "correct_index": "C", "correct_id": "T1112"}
+{"question": "Pick the TTP Technique returned from S0364 in one hop.\nA) T1561.001  B) T1569.001  C) T1514  D) T1574.004", "correct_index": "A", "correct_id": "T1561.001"}
+{"question": "During investigation, which Mitigation can be identified from CWE-654 in two hops?\nA) T1085  B) M1013  C) T1500  D) T1078", "correct_index": "D", "correct_id": "T1078"}
+{"question": "Identify the Mitigation obtained from S0354 in one hop.\nA) T1012  B) T1067  C) T1172  D) T1077", "correct_index": "A", "correct_id": "T1012"}
+{"question": "Pick the appropriate Attack Pattern ID for CAPEC-536 in one hop.\nA) CAPEC-176  B) CAPEC-317  C) CAPEC-415  D) CAPEC-123", "correct_index": "A", "correct_id": "CAPEC-176"}
+{"question": "In a threat analysis context, which Mitigation can be found from S0348 in one hop?\nA) T1033  B) T1013  C) T1025  D) T1122", "correct_index": "A", "correct_id": "T1033"}
+{"question": "In the knowledge representation, which Adversary Technique can be obtained from C0011 in two hops?\nA) T1680  B) T1583.008  C) T1596.001  D) T1552.005", "correct_index": "A", "correct_id": "T1680"}
+{"question": "Choose the Countermeasure found from S0691 in one hop.\nA) T1016  B) M1051  C) T1185  D) M1030", "correct_index": "A", "correct_id": "T1016"}
+{"question": "Which option is a valid Technique found from S0039 in one hop?\nA) T1678  B) T1562.012  C) T1098.007  D) T1027.012", "correct_index": "C", "correct_id": "T1098.007"}
+{"question": "Using CVE-2023-28493 as the starting point in one hop, which Software Weakness is returned?\nA) CWE-1117  B) CWE-79  C) CWE-570  D) CWE-1047", "correct_index": "B", "correct_id": "CWE-79"}
+{"question": "Which of the following ATT&CK Mitigation can be identified from C0033 in three hops?\nA) T1036  B) T1095  C) T1200  D) M1031", "correct_index": "A", "correct_id": "T1036"}
+{"question": "Select the Tactic reached starting from C0057 in three hops.\nA) TA0040  B) TA0010  C) TA0009  D) TA0002", "correct_index": "A", "correct_id": "TA0040"}
+{"question": "Which option best represents a Adversary Technique reachable from S0608 in one hop?\nA) T1070.001  B) T1562.001  C) T1003.005  D) T1584.001", "correct_index": "B", "correct_id": "T1562.001"}
+{"question": "Which of the following Attack Pattern ID is reachable from CVE-2021-37743 in two hops?\nA) CAPEC-667  B) CAPEC-591  C) CAPEC-508  D) CAPEC-57", "correct_index": "B", "correct_id": "CAPEC-591"}
+{"question": "Identify the Tactic Category accessible from T1500 in one hop.\nA) TA0009  B) TA0042  C) TA0007  D) TA0005", "correct_index": "D", "correct_id": "TA0005"}
+{"question": "From a security perspective, which Attack Pattern is reachable from CAPEC-274 in one hop?\nA) CAPEC-220  B) CAPEC-608  C) CAPEC-10  D) CAPEC-693", "correct_index": "A", "correct_id": "CAPEC-220"}
+{"question": "Pick the ATT&CK Mitigation found from C0058 in three hops.\nA) T1136  B) T1483  C) T1123  D) M1050", "correct_index": "A", "correct_id": "T1136"}
+{"question": "Which option is a valid CWE found from CVE-2014-100028 in one hop?\nA) CWE-609  B) CWE-1108  C) CWE-66  D) CWE-79", "correct_index": "D", "correct_id": "CWE-79"}
+{"question": "Given C0050 in three hops, which Tactical Objective can be found?\nA) TA0003  B) TA0010  C) TA0001  D) TA0040", "correct_index": "A", "correct_id": "TA0003"}
+{"question": "Within the graph, which Tactical Objective is found from S0387 in two hops?\nA) TA0008  B) TA0003  C) TA0010  D) TA0043", "correct_index": "B", "correct_id": "TA0003"}
+{"question": "Identify the correct Malware Family reachable from G0055 in one hop.\nA) S0130  B) S1183  C) S0176  D) S0052", "correct_index": "C", "correct_id": "S0176"}
+{"question": "Pick the ATT&CK Tactic found from S0687 in two hops.\nA) TA0043  B) TA0005  C) TA0040  D) TA0006", "correct_index": "B", "correct_id": "TA0005"}
+{"question": "Which option can be obtained from S0033 in two hops as a Tactical Objective?\nA) TA0008  B) TA0001  C) TA0004  D) TA0007", "correct_index": "D", "correct_id": "TA0007"}
+{"question": "Choose the most suitable CAPEC reachable from CWE-346 in one hop.\nA) CAPEC-60  B) CAPEC-426  C) CAPEC-140  D) CAPEC-675", "correct_index": "A", "correct_id": "CAPEC-60"}
+{"question": "Select the ATTACK Mitigation returned from S0120 in two hops.\nA) T1003  B) T1030  C) T1088  D) T1156", "correct_index": "A", "correct_id": "T1003"}
+{"question": "According to the graph, which Mitigation is discovered from C0007 in two hops?\nA) T1125  B) M1051  C) T1037  D) T1151", "correct_index": "A", "correct_id": "T1125"}
+{"question": "Identify the most relevant Weakness reachable from CVE-2024-40536 in one hop.\nA) CWE-183  B) CWE-372  C) CWE-120  D) CWE-488", "correct_index": "C", "correct_id": "CWE-120"}
+{"question": "From the starting node CAPEC-51 in one hop, which Attack Pattern ID is accessible?\nA) CAPEC-203  B) CAPEC-86  C) CAPEC-61  D) CAPEC-680", "correct_index": "A", "correct_id": "CAPEC-203"}
+{"question": "Given CWE-1220 in one hop, which Attack Pattern ID can be found?\nA) CAPEC-1  B) CAPEC-395  C) CAPEC-102  D) CAPEC-477", "correct_index": "A", "correct_id": "CAPEC-1"}
+{"question": "Select the TTP Technique identified from T1045 in one hop.\nA) T1567.002  B) T1110.001  C) T1027.002  D) T1597.002", "correct_index": "C", "correct_id": "T1027.002"}
+{"question": "From C0005 in one hop, which Mitigation is reachable?\nA) T1107  B) T1050  C) T1185  D) T1140", "correct_index": "D", "correct_id": "T1140"}
+{"question": "Identify the correct ATT&CK Tactic reachable from G0029 in three hops.\nA) TA0008  B) TA0042  C) TA0003  D) TA0010", "correct_index": "D", "correct_id": "TA0010"}
+{"question": "Which Tactical Objective is returned when analyzing CAPEC-643 in two hops?\nA) TA0007  B) TA0002  C) TA0001  D) TA0006", "correct_index": "A", "correct_id": "TA0007"}
+{"question": "Which of the following Tactic Category can be reached from T1606 in one hop?\nA) TA0002  B) TA0006  C) TA0005  D) TA0004", "correct_index": "B", "correct_id": "TA0006"}
+{"question": "Pick the Attack Pattern ID found from CVE-2023-1395 in two hops.\nA) CAPEC-189  B) CAPEC-256  C) CAPEC-669  D) CAPEC-209", "correct_index": "D", "correct_id": "CAPEC-209"}
+{"question": "Choose the appropriate Common Attack Pattern Enumeration and Classification for CWE-749 in one hop.\nA) CAPEC-299  B) CAPEC-619  C) CAPEC-500  D) CAPEC-135", "correct_index": "C", "correct_id": "CAPEC-500"}
+{"question": "Starting from DET0823 in one hop, which ATTACK Technique can be reached?\nA) T1114.003  B) T1669  C) T1213.004  D) T1598", "correct_index": "D", "correct_id": "T1598"}
+{"question": "Which TTP Technique can be reached from C0047 in one hop?\nA) T1566.002  B) T1568.002  C) T1021.001  D) T1568.003", "correct_index": "A", "correct_id": "T1566.002"}
+{"question": "Select the Technique accessible from DET0004 in one hop.\nA) T1574.007  B) T1027.012  C) T1600.002  D) T1036.005", "correct_index": "A", "correct_id": "T1574.007"}
+{"question": "Pick the most relevant Common Attack Pattern Enumeration and Classification reachable from CWE-838 in one hop.\nA) CAPEC-544  B) CAPEC-84  C) CAPEC-468  D) CAPEC-85", "correct_index": "C", "correct_id": "CAPEC-468"}
+{"question": "Pick the ATT&CK Technique returned from S0075 in one hop.\nA) T1552.002  B) T1069.002  C) T1218  D) T1055.014", "correct_index": "A", "correct_id": "T1552.002"}
+{"question": "Which option represents a Technique reachable from S1043 in one hop?\nA) T1592.003  B) T1679  C) T1578.003  D) T1070.004", "correct_index": "D", "correct_id": "T1070.004"}
+{"question": "Which of the following ATT&CK Tactic can be identified from T1115 in one hop?\nA) TA0009  B) TA0040  C) TA0005  D) TA0003", "correct_index": "A", "correct_id": "TA0009"}
+{"question": "Pick the ATT&CK Technique found from S0565 in one hop.\nA) T1592.001  B) T1027.002  C) T1136.001  D) T1087.004", "correct_index": "B", "correct_id": "T1027.002"}
+{"question": "Which ATT&CK Tactic is accessible from T1611 in one hop?\nA) TA0004  B) TA0006  C) TA0009  D) TA0042", "correct_index": "A", "correct_id": "TA0004"}
+{"question": "Select the Course of Action identified from DET0176 in one hop.\nA) M1045  B) T1189  C) T1075  D) T1199", "correct_index": "B", "correct_id": "T1189"}
+{"question": "Choose the ATT&CK Technique reachable from DET0103 in one hop.\nA) T1222  B) T1204.001  C) T1003.008  D) T1070.005", "correct_index": "D", "correct_id": "T1070.005"}
+{"question": "Which option corresponds to a CWE discovered from CVE-2017-14354 in one hop?\nA) CWE-1241  B) CWE-1066  C) CWE-257  D) CWE-79", "correct_index": "D", "correct_id": "CWE-79"}
+{"question": "Based on the graph, which Mitigation is returned from S0415 in one hop?\nA) M1031  B) T1140  C) T1120  D) T1101", "correct_index": "B", "correct_id": "T1140"}
+{"question": "Select the correct Tactic reachable from C0037 in three hops.\nA) TA0007  B) TA0011  C) TA0002  D) TA0005", "correct_index": "A", "correct_id": "TA0007"}
+{"question": "Pick the ATT&CK Technique returned from C0032 in three hops.\nA) T1560.001  B) T1480.002  C) T1542.001  D) T1136.002", "correct_index": "D", "correct_id": "T1136.002"}
+{"question": "Choose the Common Attack Pattern Enumeration and Classification accessible from CAPEC-534 in one hop.\nA) CAPEC-524  B) CAPEC-597  C) CAPEC-490  D) CAPEC-440", "correct_index": "D", "correct_id": "CAPEC-440"}
+{"question": "With respect to T1181 in one hop, which ATT&CK Tactic can be reached?\nA) TA0010  B) TA0005  C) TA0001  D) TA0007", "correct_index": "B", "correct_id": "TA0005"}
+{"question": "Identify which Adversary Technique can be reached from CWE-427 in two hops.\nA) T1554  B) T1037.001  C) T1574.009  D) T1027.003", "correct_index": "C", "correct_id": "T1574.009"}
+{"question": "Select the correct TTP Technique reachable from T1599.001 in one hop.\nA) T1542.001  B) T1546  C) T1599  D) T1590.004", "correct_index": "C", "correct_id": "T1599"}
+{"question": "Select the Common Weakness Enumeration discovered from CVE-2022-20159 in one hop.\nA) CWE-463  B) CWE-125  C) CWE-112  D) CWE-367", "correct_index": "B", "correct_id": "CWE-125"}
+{"question": "Which Malware is accessible from C0002 in one hop?\nA) S0350  B) S0390  C) S1058  D) S0616", "correct_index": "A", "correct_id": "S0350"}
+{"question": "From a security perspective, which Technique is reachable from DET0390 in one hop?\nA) T1547.013  B) T1559.002  C) T1546.013  D) T1560.001", "correct_index": "A", "correct_id": "T1547.013"}
+{"question": "Which Mitigation would an analyst find starting from G0055 in two hops?\nA) T1068  B) T1003  C) T1125  D) T1492", "correct_index": "A", "correct_id": "T1068"}
+{"question": "Starting with S0039 in one hop, which Technique ID is discovered?\nA) T1069.001  B) T1594  C) T1505  D) T1558.002", "correct_index": "A", "correct_id": "T1069.001"}
+{"question": "Which option corresponds to a Technique ID discovered from G0056 in one hop?\nA) T1036.004  B) T1546.002  C) T1588.002  D) T1555", "correct_index": "A", "correct_id": "T1036.004"}
+{"question": "Which Countermeasure can be obtained from S0158 in one hop?\nA) T1095  B) M1056  C) T1049  D) T1140", "correct_index": "A", "correct_id": "T1095"}
