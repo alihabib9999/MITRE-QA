@@ -45,6 +45,9 @@ Evaluates the ability of models to identify the target entity ID based on its re
 
 Evaluates the ability of models to identify the corresponding MITRE ATT&CK techniques associated with specific Sigma rules.
 
+<p align="center">
+  <img src="images/benchmark_overview.png" alt="MITRE-QA Benchmark Overview" width="800"/>
+</p>
 
 ## Dataset
 
