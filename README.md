@@ -54,6 +54,15 @@ Evaluates the ability of models to identify the corresponding MITRE ATT&CK techn
 
 The benchmark is provided in JSONL format.
 
+## Prompt Templates
+
+The prompt templates used by the multi-agent framework are available in the [`prompts/`](prompts/) directory.
+
+- [Orchestrator Agent](prompts/orchestrator/system_prompt.md)
+- [Graph Retrieval Agent](prompts/graph_retrieval/system_prompt.md)
+- [Text Retrieval Agent](prompts/text_retrieval/system_prompt.md)
+- [Web Retrieval Agent](prompts/web_retrieval/system_prompt.md)
+
 ## Citation
 
 If you use MITRE-QA in your research, please cite:
