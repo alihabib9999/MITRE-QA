@@ -56,7 +56,7 @@ The benchmark is provided in JSONL format.
 
 ## Prompt Templates
 
-The prompt templates used by the multi-agent framework are available in the [`prompts/`](prompts/) directory.
+The prompt templates used by our proposed multi-agent framework and evaluated on the MITRE-QA benchmark are available in the [`prompts/`](prompts/) directory.
 
 - [Orchestrator Agent](prompts/orchestrator/system_prompt.md)
 - [Graph Retrieval Agent](prompts/graph_retrieval/system_prompt.md)
