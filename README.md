@@ -66,3 +66,14 @@ The prompt templates used by our proposed multi-agent framework and evaluated on
 ## Citation
 
 If you use MITRE-QA in your research, please cite:
+
+```bibtex
+@misc{habibzadeh2026mitresagemultiagentcybersecurityquestionanswering,
+      title={MITRE-SAGE: A Multi-Agent Cybersecurity Question-Answering model}, 
+      author={Ali Habibzadeh and Farid Feyzi and Reza Ebrahimi Atani},
+      year={2026},
+      eprint={2608.16921},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2608.16921}, 
+}
