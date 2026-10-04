@@ -56,7 +56,7 @@ The benchmark is provided in JSONL format.
 
 ## Knowledge Graph
 
-The knowledge graph used by the graph-based retrieval component of MITRE-SAGE is available in the [`knowledge_graph/`](knowledge_graph/) directory.
+The knowledge graph used by the graph-based retrieval component of MITRE-SAGE is available in the [`Knowledge Graph/`](Knowledge Graph/) directory.
 
 The released knowledge graph is provided as a NetworkX `MultiDiGraph` and integrates cybersecurity entities and relationships from MITRE ATT&CK, MITRE CAPEC, MITRE CWE, and the NVD CVE database.
 
@@ -66,7 +66,7 @@ The released knowledge graph is provided as a NetworkX `MultiDiGraph` and integr
 | Edges | 163,652 |
 | Graph Type | NetworkX `MultiDiGraph` |
 
-For details about the graph structure, entity types, and loading instructions, see the [`knowledge_graph/README.md`](knowledge_graph/README.md).
+For details about the graph structure, entity types, and loading instructions, see the [`Knowledge Graph/README.md`](knowledge_graph/README.md).
 
 ## Prompt Templates
 
