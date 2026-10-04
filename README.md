@@ -54,6 +54,20 @@ Evaluates the ability of models to identify the corresponding MITRE ATT&CK techn
 
 The benchmark is provided in JSONL format.
 
+## Knowledge Graph
+
+The knowledge graph used by the graph-based retrieval component of MITRE-SAGE is available in the [`knowledge_graph/`](knowledge_graph/) directory.
+
+The released knowledge graph is provided as a NetworkX `MultiDiGraph` and integrates cybersecurity entities and relationships from MITRE ATT&CK, MITRE CAPEC, MITRE CWE, and the NVD CVE database.
+
+| Property | Value |
+|---|---:|
+| Nodes | 280,147 |
+| Edges | 163,652 |
+| Graph Type | NetworkX `MultiDiGraph` |
+
+For details about the graph structure, entity types, and loading instructions, see the [`knowledge_graph/README.md`](knowledge_graph/README.md).
+
 ## Prompt Templates
 
 The prompt templates used by our proposed multi-agent framework and evaluated on the MITRE-QA benchmark are available in the [`prompts/`](prompts/) directory.
