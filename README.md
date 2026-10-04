@@ -56,7 +56,7 @@ The benchmark is provided in JSONL format.
 
 ## Knowledge Graph
 
-The knowledge graph used by the graph-based retrieval component of MITRE-SAGE is available in the [`Knowledge Graph/`](Knowledge Graph/) directory.
+The knowledge graph used by the graph-based retrieval component of MITRE-SAGE is available in the [`Knowledge Graph/`](Knowledge%20Graph/) directory.
 
 The released knowledge graph is provided as a NetworkX `MultiDiGraph` and integrates cybersecurity entities and relationships from MITRE ATT&CK, MITRE CAPEC, MITRE CWE, and the NVD CVE database.
 
